@@ -3,29 +3,25 @@ import QuestionList from './QuestionList';
 import questionsData from './questions.json';
 
 const App = () => {
-  const [userAnswers, setUserAnswers] = useState([]);
-
-  // Load user answers from localStorage on component mount
-  useEffect(() => {
-    const savedAnswers = localStorage.getItem('userAnswers');
-    if (savedAnswers) {
-      setUserAnswers(JSON.parse(savedAnswers));
-    }
-  }, []);
+  const localStorageKey = 'userAnswers';
+  const [userAnswers, setUserAnswers] = useState(() => {
+    // Load user answers from localStorage on component mount
+    const savedAnswers = localStorage.getItem(localStorageKey);
+    return savedAnswers ? JSON.parse(savedAnswers) : [];
+  });
 
   // Save user answers to localStorage whenever they change
   useEffect(() => {
-    localStorage.setItem('userAnswers', JSON.stringify(userAnswers));
+    localStorage.setItem(localStorageKey, JSON.stringify(userAnswers));
   }, [userAnswers]);
 
   const handleAnswer = (answer) => {
-    // Check if the user has already answered this question
     const hasAnswered = userAnswers.some(
       (ua) => ua.question === answer.question && ua.difficulty === answer.difficulty
     );
 
     if (!hasAnswered) {
-      setUserAnswers([...userAnswers, answer]);
+      setUserAnswers((prevAnswers) => [...prevAnswers, answer]);
     }
   };
 
