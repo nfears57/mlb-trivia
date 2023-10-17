@@ -1,0 +1,3602 @@
+[
+    {
+        "id": 1,
+        "question": "In 1920, who was the first player to hit more than 50 homers in a single season?",
+        "answers": "Babe Ruth",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 2,
+        "question": "In 1941, what outfielder was the last player to hit over .400 in a single season, hitting .406?",
+        "answers": "Ted Williams",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 3,
+        "question": "In Game 6 of the 1986 World Series between the Red Sox and Mets, who let a ground ball pass through his legs scoring the winning run, extending the series to Game 7?",
+        "answers": "Bill Buckner",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 4,
+        "question": "In 1972, which player became the 11th hitter to join the 3000 hit club, however, he would stay at that number when he tragically passed away in a plane crash in that offseason?",
+        "answers": "Roberto Clemente",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 5,
+        "question": "In 1985, which player became the all-time hit leader, passing Ty Cobb with hit number 4,192?",
+        "answers": "Pete Rose",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 6,
+        "question": "In 1988, which player became the first in MLB history to join the 40 home run/40 stolen base club?",
+        "answers": "Jose Canseco",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 7,
+        "question": "In Game 6 of the 1977 World Series, which player hit 3 home runs, all of which on the first pitch of the at-bat, to lead his team to a world series championship?",
+        "answers": "Reggie Jackson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 8,
+        "question": "In 2011, what closer notched his 603rd Save, making him the all-time leader?",
+        "answers": "Mariano Rivera",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 9,
+        "question": "Which pitcher is the all-time leader in Wins, Losses, Games Started, Complete Games, Innings Pitched, Hits, and Earned Runs?",
+        "answers": "Cy Young",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 10,
+        "question": "Which player is the all-time leader in stolen-bases for his career?",
+        "answers": "Rickey Henderson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 11,
+        "question": "Which player broke the color barrier in 1947",
+        "answers": "Jackie Robinson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 12,
+        "question": "Who is the all-time leader in intentional walks with 688?",
+        "answers": "Barry Bonds",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 13,
+        "question": "What player set the consecutive games played record on September 6th, 1995?",
+        "answers": "Cal Ripken",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 14,
+        "question": "What team set the record for wins in 2001?",
+        "answers": "Seattle Mariners",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 15,
+        "question": "In 1998, which 2 players went back in forth during a record-setting home run chase?",
+        "answers": ["Mark McGwire and Sammy Sosa"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 16,
+        "question": "In 1961, which player set (at the time) the single-season home run record, surpassing Babe Ruth, with 61?",
+        "answers": "Roger Maris",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 17,
+        "question": "What player hit a walk-off single off Mariano Rivera to win the 2001 World Series",
+        "answers": "Luis Gonzalez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 18,
+        "question": "Who is the only pitcher with a postseason Perfect Game?",
+        "answers": "Don Larsen",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 19,
+        "question": "What player broke Babe Ruth’s career home run record in 1974?",
+        "answers": "Hank Aaron",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 20,
+        "question": "In 1941, what player set the all-time record for consecutive games with a hit with 56?",
+        "answers": "Joe DiMaggio",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 21,
+        "question": "What player holds the record for most world series championships?",
+        "answers": "Yogi Berra",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 22,
+        "question": "Who holds the record for most MVPs?",
+        "answers": "Barry Bonds",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 23,
+        "question": "Who was the first Japanese-born player to win MVP in MLB?",
+        "answers": "Ichiro Suzuki",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 24,
+        "question": "What Player hit a walk-off home run in game 7 to send the Yankees to the 2003 world series?",
+        "answers": "Aaron Boone",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 25,
+        "question": "What Player hit a crucial Grand Slam to propel the Red Sox to the 2004 world series, en route to breaking an 86-year drought?",
+        "answers": "Johnny Damon",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 26,
+        "question": "What Player hit a clutch 2-run Triple to tie game 6 of the 2011 world series in the bottom of the 9th and followed it up with a walk-off home run in the 11th?",
+        "answers": "David Freese",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 27,
+        "question": "What Player hit a clutch 2-run home run off the right field foul pole in game 7 of the 2019 world series to help the Nationals win their lone championship?",
+        "answers": "Howie Kendrick",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 28,
+        "question": "What player broke the AL home run record in 2022 with 62 home runs?",
+        "answers": "Aaron Judge",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 29,
+        "question": "Who holds the single-season strikeout record in the modern era?",
+        "answers": "Nolan Ryan",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 30,
+        "question": "Who is the only Japanese-born player to win a world series MVP?",
+        "answers": "Hideki Matsui",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 31,
+        "question": "Who threw the most recent Perfect Game?",
+        "answers": "Domingo German",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 32,
+        "question": "Who is the only player to hit 2 grand slams in 1 inning?",
+        "answers": "Fernando Tatis",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 33,
+        "question": "What pitchers hold the record for most consecutive strikeouts without a walk?",
+        "answers": "Gerrit Cole",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 34,
+        "question": "When was the last year where no World Series champion was awarded?",
+        "answers": "1994",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 35,
+        "question": "Who holds the single-season record for most home runs by a rookie?",
+        "answers": "Pete Alonso",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 36,
+        "question": "What two players have the most consecutive seasons with 50 or more home runs?",
+        "answers": ["Mark McGwire and Sammy Sosa"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 37,
+        "question": "What player has the most consecutive seasons with 40 or more home runs?",
+        "answers": "Babe Ruth",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 38,
+        "question": "What two players have the most seasons with 30 or more home runs?",
+        "answers": ["Hank Aaron and Alex Rodriguez"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 39,
+        "question": "What player has the most consecutive seasons with 20 or more home runs?",
+        "answers": "Hank Aaron",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 40,
+        "question": "Who is the oldest pitcher to record a win?",
+        "answers": "Jaime Moyer",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 41,
+        "question": "Who is the youngest player to reach 500 home runs?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 42,
+        "question": "Who holds the single-season hit record?",
+        "answers": "Ichiro Suzuki",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 43,
+        "question": "Who holds the record for most home runs in a calendar month?",
+        "answers": "Sammy Sosa",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 44,
+        "question": "What former MVP had this career path from 1995-2014? OAK->NYY->OAK->COL->CLE",
+        "answers": "Jason Giambi",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 45,
+        "question": "What 2x batting champ had this career path from 1996-2009? BOS->CHC->LAD->OAK",
+        "answers": "Nomar Garciaparra",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 46,
+        "question": "What HR Champ had this career path from 1996-2012? ATL->LAD->TEX->CHW->NYY",
+        "answers": "Andruw Jones",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 47,
+        "question": "What ROY winner had this career path from 2005-2019? BOS->FLA->LAD->BOS->CLE",
+        "answers": "Hanley Ramirez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 48,
+        "question": "What Former Batting Champion had this career path from 2001-2015? MIN->COL->NYM",
+        "answers": "Michael Cuddyer",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 49,
+        "question": "What 7x AS had this career path from 2004-2018? COL->OAK->STL->NYY->COL",
+        "answers": "Matt Holliday",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 50,
+        "question": "What former MVP had this career path from 1989-2005? MON->COL->STL",
+        "answers": "Larry Walker",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 51,
+        "question": "What 2x MVP had this career path from 1990-2008? CHW->OAK->TOR->OAK",
+        "answers": "Frank Thomas",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 52,
+        "question": "What 12x AS had this career path from 1992-2007? LAD->FLA->NYM->SDP->OAK",
+        "answers": "Mike Piazza",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 53,
+        "question": "What former MVP had this career path from 1991-2003? BOS->ANA->NYM",
+        "answers": "Mo Vaughn",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 54,
+        "question": "What 12x AS had this career path from 1993-2011? CLE->BOS->LAD->CHW->TBR",
+        "answers": "Manny Ramirez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 55,
+        "question": "What former MVP had this career path from 1996-2011? MON->ANA->TEX->BAL",
+        "answers": "Vladimir Guerrero",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 56,
+        "question": "What 2x AS had this career path from 1993-2007? TOR->LAD->ARI->NYM",
+        "answers": "Shawn Green",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 57,
+        "question": "What 5x AS had this career path from 1986-2004? TOR->SDP->ATL->TBD->CHC->LAD->TBD",
+        "answers": "Fred McGriff",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 58,
+        "question": "What 2x MVP had this career path from 1989-2005? TEX->DET->CLE->TEX->KCR->CLE",
+        "answers": "Juan González",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 59,
+        "question": "What 3x MVP had this career path from 2005-2020? CIN->TOR->CLE->SEA->NYY->CHW",
+        "answers": "Edwin Encarnación",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 60,
+        "question": "What 3x AS had this career path from 2004-2019? DET->NYY->NYM->LAD->TOR->MIL->MIA",
+        "answers": "Curtis Granderson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 61,
+        "question": "What 3x AS had this career path from 2008-2021? CIN->NYM->CLE->NYM->PHI->NYY",
+        "answers": "Jay Bruce",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 62,
+        "question": "What former MVP had this career path from 2006-2020? LAD->SDP->ATL->LAD->CIN->COL",
+        "answers": "Matt Kemp",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 63,
+        "question": "What 6x AS had this career path from 2005-2016? MIL->DET->TEX",
+        "answers": "Prince Fielder",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 64,
+        "question": "What former HR Champ had this career path from 2010-2019? LAA->ARI->SEA->BAL",
+        "answers": "Mark Trumbo",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 65,
+        "question": "What 4x AS had this career path from 1986-2005? CHC->TEX->BAL->TEX->BAL",
+        "answers": "Rafael Palmeiro",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 66,
+        "question": "What 5x AS had this career path from 2004-2018? TEX->SDP->BOS->LAD->NYM",
+        "answers": "Adrián González",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 67,
+        "question": "What 3x AS had this career path from 2002-2018? CLE->CIN->ATL->LAA->BOS",
+        "answers": "Brandon Phillips",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 68,
+        "question": "What former ROY had this career path from 2003-2013? SDP->PIT->BOS->NYM->SEA",
+        "answers": "Jason Bay",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 69,
+        "question": "What 4x AS had this career path from 2002-2016? TBD->BOS->LAD",
+        "answers": "Carl Crawford",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 70,
+        "question": "What 3x SB Champ had this career path from 2000-2013? COL->FLA->CHC->LAD->CHW->PHI->MIA",
+        "answers": "Juan Pierre",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 71,
+        "question": "What Former MVP had this career path from 2000-2016? PHI->LAD->CHW",
+        "answers": "Jimmy Rollins",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 72,
+        "question": "What 1x AS had this career path from 2006-2020? BAL->ATL",
+        "answers": "Nick Markakis",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 73,
+        "question": "What 3x AS had this career path from 1999-2013? TOR->LAA->NYY",
+        "answers": "Vernon Wells",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 74,
+        "question": "What 2x AS had this career path from 2001-2014? CIN->ARI->WSN->CHW->OAK",
+        "answers": "Adam Dunn",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 75,
+        "question": "Who was the oldest MVP in MLB history?",
+        "answers": "Barry Bonds",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 76,
+        "question": "What Angels outfielder led the American League in Wins Above Replacement in each of his first 5 full seasons?",
+        "answers": "Mike Trout",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 77,
+        "question": "Who had the lowest ERA from a Starting Pitcher to win the Cy Young Award?",
+        "answers": "Bob Gibson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 78,
+        "question": "What player threw the fastest recorded pitch in MLB history?",
+        "answers": "Aroldis Chapman",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 79,
+        "question": "Who was the last pitcher to throw a no-hitter in the postseason?",
+        "answers": "Roy Halladay",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 80,
+        "question": "Who has the most home runs in Royals History?",
+        "answers": "George Brett",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 81,
+        "question": "What Manager holds the record for most ejections?",
+        "answers": "Bobby Cox",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 82,
+        "question": "As of 2023, what player has the highest career earnings in MLB history?",
+        "answers": "Miguel Cabrera",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 83,
+        "question": "As of 2023, what player has the highest single-season salary in MLB history?",
+        "answers": "Max Scherzer",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 84,
+        "question": "Who is the most recent MVP to be inducted into the Hall of Fame?",
+        "answers": "Vladimir Guerrero",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 85,
+        "question": "What player has the most home runs in World Series history?",
+        "answers": "Mickey Mantle",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 86,
+        "question": "What player has the most home runs in postseason history?",
+        "answers": "Manny Ramirez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 87,
+        "question": "What player has the most home runs in a single postseason?",
+        "answers": "Randy Arozarena",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 88,
+        "question": "What player has the most wins in postseason history?",
+        "answers": "Andy Pettitte",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 89,
+        "question": "What player has the lowest ERA in postseason history?",
+        "answers": "Mariano Rivera",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 90,
+        "question": "What player has the most strikeouts in postseason history?",
+        "answers": "Justin Verlander",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 91,
+        "question": "What player has the lowest ERA in WS history? (Min. 25 innings)",
+        "answers": "Madison Bumgarner",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 92,
+        "question": "What player has the most wins in WS history?",
+        "answers": "Whitey Ford",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 93,
+        "question": "Who hit the most home runs in MLB history from ages 20-29?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 94,
+        "question": "Who hit the most home runs in MLB history from ages 30-39?",
+        "answers": "Barry Bonds",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 95,
+        "question": "Who holds the record for most stolen bases by a Rookie in MLB history?",
+        "answers": "Corbin Carroll",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 96,
+        "question": "Who has the most strikeouts in a single season for a pitcher who didn’t make an all-star team?",
+        "answers": "Nolan Ryan",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 97,
+        "question": "Who is the only player in history to have more than 40 Home runs with fewer than 100 hits?",
+        "answers": "Joey Gallo",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 98,
+        "question": "Who is the only player in MLB history to hit 50 Home runs, have over 200 Strikeouts and over 100 walks?",
+        "answers": "Aaron Judge",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 99,
+        "question": "Who has the Longest streak of consecutive games with 10+ strikeouts in MLB History?",
+        "answers": "Gerrit Cole",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 100,
+        "question": "How many Career Home runs did Mickey Mantle hit?",
+        "answers": "536",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 101,
+        "question": "How many Career Home runs did Willie Mays hit?",
+        "answers": "660",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 102,
+        "question": "How many Career Home runs did Willie McCovey hit?",
+        "answers": "521",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 103,
+        "question": "What 2x AS pitcher had this career path from 2000-2008? OAK->STL",
+        "answers": "Mark Mulder",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 104,
+        "question": "What 3x AS pitcher had this career path from 2001-2012? CHC->MIA",
+        "answers": "Carlos Zambrano",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 105,
+        "question": "What 5x AS pitcher had this career path from 1989-2008? TEX->NYY->OAK->NYM->TEX->MIN->TEX->DET",
+        "answers": "Kenny Rogers",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 106,
+        "question": "What 3x AS and Cy Young winner had this career path from 2002-2016? SDP->CHW->BOS->SFG",
+        "answers": "Jake Peavy",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 107,
+        "question": "What 3x AS pitcher had this career path from 2003-2015? STL->OAK->ARI->LAA->WSN->LAD->MIA->CHC",
+        "answers": "Dan Haren",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 108,
+        "question": "What 1x AS pitcher had this career path from 2006-2018? TBD->KCR->SDP->CHW",
+        "answers": "James Shields",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 109,
+        "question": "What 2x AS pitcher had this career path from 2008-2020? OAK->WSN->MIL->CHW",
+        "answers": "Gio Gonzalez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 110,
+        "question": "What 5x AS pitcher had this career path from 2000-2015? CHW->MIA->TOR",
+        "answers": "Mark Buehrle",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 111,
+        "question": "What 1x AS pitcher had this career path from 2002-2017? ANA->BOS->STL->CHC",
+        "answers": "John Lackey",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 112,
+        "question": "What 2x AS pitcher and ROY had this career path from 2003-2011? FLA->DET->ARI->CIN",
+        "answers": "Dontrelle Willis",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 113,
+        "question": "What 6x AS pitcher had this career path from 1986-2005? TEX->BAL->FLA->SDP->LAD->NYY",
+        "answers": "Kevin Brown",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 114,
+        "question": "What 1x AS pitcher had this career path from 2012-2021? NYM->CIN->LAA->KCR->BAL",
+        "answers": "Matt Harvey",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 115,
+        "question": "What 4x AS pitcher and Cy Young winner had this career path from 1997-2018? CLE->MON->CHW->LAA->BOS->CHW->NYY->OAK->NYM->ATL->MIN->TEX",
+        "answers": "Bartolo Colon",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 116,
+        "question": "What 5x AS pitcher and Cy Young winner had this career path from 1986-2003? KCR->NYM->TOR->KCR->TOR->NYY->BOS->NYM",
+        "answers": "David Cone",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 117,
+        "question": "What 5x AS pitcher had this career path from 1986-2002? CAL->CLE->STL",
+        "answers": "Chuck Finley",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 118,
+        "question": "What 1x AS pitcher had this career path from 2000-2017? PIT->BOS->CIN->ARI->CIN",
+        "answers": "Bronson Arroyo",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 119,
+        "question": "What 4x AS pitcher had this career path from 2001-2012? MIL->OAK->ATL",
+        "answers": "Ben Sheets",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 120,
+        "question": "What 2x AS pitcher had this career path from 1998-2012? CHC->CLE->NYY->CHC",
+        "answers": "Kerry Wood",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 121,
+        "question": "What 1x AS pitcher had this career path from 2006-2017? COL->CLE->BAL",
+        "answers": "Ubaldo Jimenez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 122,
+        "question": "What 1x AS pitcher had this career path from 2011-2022? SEA->NYY->MIN->DET",
+        "answers": "Michael Pineda",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 123,
+        "question": "What 3x AS pitcher and Cy Young winner had this career path from 2000-2015? OAK->SFG->OAK",
+        "answers": "Barry Zito",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 124,
+        "question": "What 4x AS pitcher had this career path from 1984-1998? TOR->NYY->BAL",
+        "answers": "Jimmy Key",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 125,
+        "question": "What 3x AS pitcher and Cy Young winner had this career path from 1991-2004? TOR->STL->BAL->TOR",
+        "answers": "Pat Hentgen",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 126,
+        "question": "In the shortened 2020 season, who led the majors in home runs?",
+        "answers": "Luke Voit",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 127,
+        "question": "Who are the 7 Yankees who have hit 45+ Home runs in a season?",
+        "answers": ["Aaron Judge, Alex Rodriguez, Roger Maris, Mickey Mantle, Joe DImaggio, Lou Gehrig, Babe Ruth"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 128,
+        "question": "Who hit a walkoff homerun in Game 1 of the 1988 World Series, which had the highest Win Probability Added by a play in Postseason history?",
+        "answers": "Kirk Gibson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 129,
+        "question": "Who was the first player to reach 3000 hits?",
+        "answers": "Cap Anson",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 130,
+        "question": "Who was the first World Series MVP and for what team?",
+        "answers": ["Johnny Podres, Brooklyn Dodgers"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 131,
+        "question": "What pitcher holds the record for most games pitched?",
+        "answers": "Jesse Orosco",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 132,
+        "question": "Who are the only 2 Hall of Fame Pitchers to give up either a 500th, 600th, or 700th home run?",
+        "answers": ["Juan Marichal, Gaylord Perry"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 133,
+        "question": "Who was the only player in MLB history to die directly from being hit by a pitch in the head?",
+        "answers": "Ray Chapman",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 134,
+        "question": "Who had the most hits in the 1990s?",
+        "answers": "Mark Grace",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 135,
+        "question": "Who holds the record for most hits in an extra inning game?",
+        "answers": "Johnny Burnett",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 136,
+        "question": "What 5 players won both MVP and World Series MVP in the same season?",
+        "answers": ["Mike Schmidt, Willie Stargell, Reggie Jackson, Frank Robinson, and Sandy Koufax"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 137,
+        "question": "Who has hit a home run in the most stadiums in MLB history?",
+        "answers": "Sammy Sosa",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 138,
+        "question": "What 2 players hold the record for most Grand Slams in a single season?",
+        "answers": ["Don Mattingly and Travis Hafner"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 139,
+        "question": "In 2011, the New York Yankees became the first team in MLB history to hit 3 grand slams in a game, what 3 players hit a grand slam in that game?",
+        "answers": ["Robinson Cano, Russell Martin, Curtis Granderson"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 140,
+        "question": "What former RBI champ had this career path from 1992-2005? SEA->CIN->ATL->SDP->SEA->MIN",
+        "answers": "Bret Boone",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 141,
+        "question": "What former WS MVP had this career path from 1998-2010? ANA->ARI->TOR->STL->ATL",
+        "answers": "Troy Glaus",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 142,
+        "question": "What player had this career path from 1987-2002? NYY->ANA->OAK->TEX->NYY->OAK",
+        "answers": "Randy Velarde",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 143,
+        "question": "What player had this career path from 1990-2001? STL->NYM->ARI->BOS->ATL",
+        "answers": "Bernard Gilkey",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 144,
+        "question": "What 1x AS had this career path from 1992-2006? STL->ATL->LAD->TEX->ATL",
+        "answers": "Brian Jordan",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 145,
+        "question": "What 1x AS had this career path from 1991-2007? CIN->SDP->ATL->ARI->SFG->PIT->STL->KCR",
+        "answers": "Reggie Sanders",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 146,
+        "question": "What 1x AS had this career path from 2000-2011? MON->CLE->LAD->OAK->SDP->TEX->CHC->SEA",
+        "answers": "Milton Bradley",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 147,
+        "question": "What 1x AS had this career path from 2002-2016? DET->ATL->FLA->DET->KCR",
+        "answers": "Omar Infante",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 148,
+        "question": "What player had this career path from 2007-2017? ATL->TOR->TBR->WSN->LAA",
+        "answers": "Yunel Escobar",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 149,
+        "question": "What 2x AS had this career path from 1999-2010? MIN->WSN->TEX",
+        "answers": "Cristian Guzmán",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 150,
+        "question": "What former Batting Champ had this career path from 1996-2006? SFG->CHC->SFG->BOS->LAD",
+        "answers": "Bill Mueller",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 151,
+        "question": "What player had this career path from 1997-2010? DET->TEX->TOR->TEX->MIL->NYM",
+        "answers": "Frank Catalanotto",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 152,
+        "question": "What player had this career path from 1990-2004? BAL->NYM->MON->SEA->TOR->TEX->CLE->BAL",
+        "answers": "David Segui",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 153,
+        "question": "What player had this career path from 2004-2014? FLA->WSN->OAK->MIN->KCR",
+        "answers": "Josh Willingham",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 154,
+        "question": "What 1x AS had this career path from 1995-2006? HOU->DET->ANA->SDP->TEX->CHC->MIN",
+        "answers": "Phil Nevin",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 155,
+        "question": "What 1x AS had this career path from 1998-2007? NYM->FLA->COL->WSN->HOU->STL",
+        "answers": "Preston Wilson",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 156,
+        "question": "What 2x AS had this career path from 1987-2003? ATL->CIN->STL->PHI->ANA->COL->OAK->SDP->OAK",
+        "answers": "Ron Gant",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 157,
+        "question": "What 1x GG had this career path from 2005-2016? ATL->NYM->TEX->KCR->SFG->SDP->PHI->ATL->MIA",
+        "answers": "Jeff Francoer",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 158,
+        "question": "What 4x AS had this career path from 1986-2006? TEX->OAK->NYY->DET->CIN->TOR->CHW->TEX->SEA->TEX->NYY->MIN",
+        "answers": "Ruben Sierra",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 159,
+        "question": "What Cleveland Indians’ player broke up Armando Galarraga’s perfect game with 2 outs in the 9th that was infamously blown by umpire Jim Joyce?",
+        "answers": "Jason Donald",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 160,
+        "question": "What Royals pitcher gave up a walk-off home run to Scott Hatteberg to secure the 2002 Oakland A’s record-setting 20th consecutive win?",
+        "answers": "Jason Grimsley",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 161,
+        "question": "In 1996, who let up a home run to Derek Jeter that was famously interfered with by Jeffrey Maier?",
+        "answers": "Armando Benitez",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 162,
+        "question": "Who was the youngest MVP in MLB history?",
+        "answers": "Vida Blue",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 163,
+        "question": "Who had the highest ERA from a Cy Young Award winner?",
+        "answers": "LaMarr Hoyt",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 164,
+        "question": "What starting pitcher had the fewest strikeouts by a Cy Young winner?",
+        "answers": "Randy Jones",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 165,
+        "question": "What player had the highest Wins Above Replacement to win the MVP award?",
+        "answers": "Walter Johnson",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 166,
+        "question": "What player had the most stolen bases in an MVP season?",
+        "answers": "Maury Willis",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 167,
+        "question": "Who holds the record for most Sacrifice Flies in MLB history?",
+        "answers": "Eddie Murray",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 168,
+        "question": "What player has the lowest WHIP in postseason history? (Minimum 30 innings)",
+        "answers": "Jeremy Affeldt",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 169,
+        "question": "Who hit the first home run outside of the US in MLB History?",
+        "answers": "Mack Jones",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 170,
+        "question": "What 11 players collected 3000 or more hits from 1980-2023?",
+        "answers": ["Derek Jeter, Albert Pujols, Cal Ripken Jr., Miguel Cabrera, Adrian Beltre, Tony Gwynn, Alex Rodriguez, Ichiro Suzuki, Craig Biggio, Rafael Palmeiro, Wade Boggs"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 171,
+        "question": "Who has the most home runs by a player in their 40s?",
+        "answers": "Carlton Fisk",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 172,
+        "question": "Who has the most home runs by a player under the age of 20?",
+        "answers": "Tony Conigliaro",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 173,
+        "question": "What pitcher has the highest OPS as a hitter? (Only from the pitcher position)",
+        "answers": "Micah Owings",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 174,
+        "question": "Who is the tallest player to hit a home run in MLB history?",
+        "answers": "Jon Rauch",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 175,
+        "question": "Who is the only player in MLB history with at least 400 home runs, 3000 hits, and over a .330 lifetime batting average?",
+        "answers": "Stan Musial",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 176,
+        "question": "Who are the only 3 rookies in MLB history to have at least 8.0 WAR?",
+        "answers": ["Mike Trout, Aaron Judge, Dick Allen"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 177,
+        "question": "Who has the highest WAR in a single season for a position-player who didn’t make an all-star team?",
+        "answers": "Jim Thome",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 178,
+        "question": "Who has the highest WAR for a position player who never made an all-star team?",
+        "answers": "Tony Phillips",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 179,
+        "question": "Who has the most home runs for a player who never made an all-star team?",
+        "answers": "Tim Salmon",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 180,
+        "question": "Who has the most hits for a player who never made an all-star team?",
+        "answers": "Orlando Cabrera",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 181,
+        "question": "Who has the highest WAR for a pitcher who never made an all-star team?",
+        "answers": "Tom Candiotti",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 182,
+        "question": "Who has the most wins for a pitcher who never made an all-star team?",
+        "answers": "Mike Torrez",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 183,
+        "question": "Who has the most strikeouts for a pitcher who never made an all-star team?",
+        "answers": "Bobby Witt",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 184,
+        "question": "Who has the highest WAR in a single season for a pitcher who didn’t make an all-star team?",
+        "answers": "Roger Clemens",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 185,
+        "question": "What pitcher has the lowest single-season WAR in an all-star season?",
+        "answers": "Derrick Turnbow",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 186,
+        "question": "What position-player has the lowest single-season WAR in MLB history?",
+        "answers": "Rico Brogna",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 187,
+        "question": "Who was the Heaviest Player in MLB history to hit a home run?",
+        "answers": "Walter Young",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 188,
+        "question": "What 2 players have the most 30/30 seasons in MLB history?",
+        "answers": ["Barry Bonds and Bobby Bonds"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 189,
+        "question": "Who is the only hitter to hit 40 home runs with an OPS below .770?",
+        "answers": "Todd Frazier",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 190,
+        "question": "Who had the fewest home runs in a season with over 200 strikeouts?",
+        "answers": "Drew Stubbs",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 601,
+        "question": "Who are the only 2 players to hit 30+ home runs with an OPS under .700 in MLB history?",
+        "answers": ["Dave Kingman, Rougned Odor"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 191,
+        "question": "What player has the most seasons in between 10 and 20 home runs?",
+        "answers": "Derek Jeter",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 192,
+        "question": "What 3 players have the most seasons in between 20 and 30 home runs?",
+        "answers": ["Chili Davis, Cal Ripken Jr., and Ron Cey"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 193,
+        "question": "What 2 players have the most seasons in between 30 and 40 home runs?",
+        "answers": ["Mike Piazza and Mike Schmidt"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 194,
+        "question": "Who are the only two players in MLB history with 50+ doubles in 3 different seasons?",
+        "answers": ["Brian Roberts, Albert Pujols"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 195,
+        "question": "Who are the only 2 players to lead the league in singles, doubles, and triples in the same season?",
+        "answers": ["Ty Cobb, Stan Musial"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 196,
+        "question": "Who is the only player in MLB history with multiple games with 4+ doubles?",
+        "answers": "Albert Belle",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 197,
+        "question": "What 1x AS pitcher had this career path from 1993-2007 TOR->SDP->STL->SDP->HOU",
+        "answers": "Woody Williams",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 198,
+        "question": "What pitcher had this career path from 1995-2012? BOS->ARI->KCR->PIT->BOS->STL->MIL->STL->SDP",
+        "answers": "Jeff Suppan",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 199,
+        "question": "What 1x AS pitcher had this career path from 2003-2016? ARI->MIL->NYM->LAD->BOS->NYY->MIL",
+        "answers": "Chris Capuano",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 200,
+        "question": "What 1x AS pitcher had this career path from 2000-2013? CHW->LAA->ARI->LAD->SDP->LAD->COL",
+        "answers": "Jon Garland",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 201,
+        "question": "What pitcher had this career path from 1998-2009?BAL->SFG->BAL->STL->NYY->MIN->TEX->NYY->KCR",
+        "answers": "Sidney Ponson",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 202,
+        "question": "What pitcher had this career path from 2002-2015? OAK->CIN->SDP->LAD->SEA->NYM->ATL->PHI",
+        "answers": "Aaron Harang",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 203,
+        "question": "What 2x AS pitcher had this career path from 1995-2008? PIT->TEX->TOR->CHW->NYY->WSN->OAK->LAD->CHW",
+        "answers": "Esteban Loaiza",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 204,
+        "question": "What pitcher had this career path from 1997-2009? TOR->LAA",
+        "answers": "Kelvim Escobar",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 205,
+        "question": "What 1x AS pitcher had this career path from 2006-2016? CLE->TBR->PHI->LAD->HOU->ATL",
+        "answers": "Roberto Hernandez",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 206,
+        "question": "What pitcher had this career path from 2004-2016? PHI->CHW->ATL->CLE->TOR",
+        "answers": "Gavin Floyd",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 207,
+        "question": "What pitcher had this career path from 2004-2018? MIL->KCR->COL->ARI->CHC",
+        "answers": "Jorge De La Rosa",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 208,
+        "question": "What pitcher had this career path from 2005-2017? TEX->CHC->BAL->HOU->TOR->CIN",
+        "answers": "Scott Feldman",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 209,
+        "question": "What pitcher had this career path from 2009-2021? TEX->CHW->SFG->CHC->PIT->DET",
+        "answers": "Derek Holland",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 210,
+        "question": "What 1x AS pitcher had this career path from 2005-2019? FLA->NYM->SEA->LAA->KCR->NYM->PHI",
+        "answers": "Jason Vargas",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 211,
+        "question": "What 1x AS pitcher had this career path from 2005-2019? PIT->ARI->WSN->CIN->MIL->CHW->STL->MIN->SEA->CIN",
+        "answers": "Zach Duke",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 212,
+        "question": "What 1x AS pitcher had this career path from 2002-2012? COL->BOS",
+        "answers": "Aaron Cook",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 213,
+        "question": "What 1x AS pitcher had this career path from 1998-2006? SDP->FLA->CHC->BOS",
+        "answers": "Matt Clement",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 214,
+        "question": "What 1x AS pitcher had this career path from 2001-2008? COL->NYY->PIT->HOU",
+        "answers": "Shawn Chacon",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 215,
+        "question": "What 1x AS pitcher had this career path from 1999-2015? PHI->LAD->SDP->HOU->LAD->MIL->BAL->MIA->DET",
+        "answers": "Randy Wolf",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 216,
+        "question": "What 1x AS pitcher had this career path from 1999-2012? ARI->PHI->TEX->LAD->BOS",
+        "answers": "Vicente Padilla",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 217,
+        "question": "What 1x AS pitcher had this career path from 1998-2008? ATL->LAD->KCR->WSN",
+        "answers": "Odalis Perez",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 218,
+        "question": "What 1x AS pitcher had this career path from 2005-2013? FLA->TOR",
+        "answers": "Josh Johnson",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 219,
+        "question": "What 1x AS pitcher had this career path from 2000-2016? SFG->PIT->SFG->PIT",
+        "answers": "Ryan Vogelsong",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 220,
+        "question": "What 1x AS pitcher had this career path from 2007-2018? MIL->BAL->SEA->CIN->TEX",
+        "answers": "Yovani Gallardo",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 221,
+        "question": "What 1x AS pitcher had this career path from 2003-2015? SFG->PIT->MIN->LAD->PHI",
+        "answers": "Kevin Correia",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 222,
+        "question": "What 1x AS pitcher had this career path from 2008-2016? BAL->CIN->DET->CIN",
+        "answers": "Alfredo Simon",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 223,
+        "question": "What 1x AS pitcher had this career path from 1998-2009? MIN->PHI->CIN->LAD",
+        "answers": "Eric Milton",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 224,
+        "question": "What 1x AS pitcher had this career path from 1999-2006? MIN->KCR->CIN",
+        "answers": "Joe Mays",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 225,
+        "question": "What 1x AS pitcher had this career path from 1999-2008? MIN->DET->FLA->OAK->PIT->KCR->ATL->COL",
+        "answers": "Mark Redman",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 226,
+        "question": "What 1x AS pitcher had this career path from 2007-2014? DET->ATL->BAL->COL",
+        "answers": "Jair Jurrjens",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 227,
+        "question": "What 1x AS pitcher had this career path from 1998-2002? TBD->COL->BOS",
+        "answers": "Rolando Arrojo",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 228,
+        "question": "What 1x AS pitcher had this career path from 1992-2001? MON->COL->SFG->CHC->STL->ANA->PHI->HOU",
+        "answers": "Kent Bottenfield",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 229,
+        "question": "What 1x AS pitcher had this career path from 1992-2004? HOU->ATL->ARI",
+        "answers": "Shayne Reynolds",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 230,
+        "question": "What 1x AS pitcher had this career path from 1995-2009? NYM->ATL->PHI->KCR->ATL->LAA->CLE->BOS",
+        "answers": "Paul Byrd",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 231,
+        "question": "What 1x AS pitcher had this career path from 1995-2005? CHW->LAD->SEA->MIN->NYM->BAL->TEX->BAL",
+        "answers": "James Baldwin",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 232,
+        "question": "What 1x AS pitcher had this career path from 1995-2008? SFG->NYM->CIN->CHC->ARI->SDP",
+        "answers": "Shawn Estes",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 233,
+        "question": "In game 162, What Orioles player hit a walk-off single in 2011, effectively knocking the Boston Red Sox out of the playoffs, completing their September Collapse?",
+        "answers": "Robert Andino",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 234,
+        "question": "Since 2000, what 6 players hit 0 Home runs in the first round of the Home Run Derby?",
+        "answers": ["Troy Glass, Bret Boone, Jason Bay, Brandon Inge, Robinson Cano, Yasiel Puig"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 235,
+        "question": "What All-star pitcher gave up Derek Jeter’s final hit in Yankee stadium, which happened to be the last pitch of his career?",
+        "answers": "Evan Meek",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 236,
+        "question": "In Derek Jeter’s final home game, what 2 Orioles hitters hit home runs in the top of the 9th to tie the game, setting up the walk-off?",
+        "answers": ["Adam Jones, Steve Pearce"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 237,
+        "question": "Who hit the famous, “Shot heard around the world” to win the 1951 NL Pennant?",
+        "answers": "Bobby Thomson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 238,
+        "question": "What 3 players hit a home run for their 3000th hit? Derek Jeter, Alex Rodriguez, Wade Boggs",
+        "answers": "",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 239,
+        "question": "What 2 players have hit walk-off home runs to win the world series?",
+        "answers": ["Joe Carter, Bill Mazeroski"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 240,
+        "question": "What Position Player has the most gold gloves in MLB History?",
+        "answers": "Brooks Robinson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 241,
+        "question": "In Game 6 of the 2003 NLCS what player was interfered with by a fan, leading to a series of miscues costing the Cubs a chance to break the curse?",
+        "answers": "Moises Alou",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 242,
+        "question": "In 1911, what player was named the first MVP?",
+        "answers": "Ty Cobb",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 243,
+        "question": "Who won the first modern world series in 1903?",
+        "answers": "Boston Americans",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 244,
+        "question": "Who is the only hitter to win multiple triple crowns?",
+        "answers": "Ted Williams",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 245,
+        "question": "In 2006, what player became the oldest player to hit a homerun at age 47?",
+        "answers": "Julio Franco",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 246,
+        "question": "What player holds the record for most consecutive scoreless innings pitched?",
+        "answers": "Orel Hershiser",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 247,
+        "question": "What player holds the record for most grand slams with 25?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 248,
+        "question": "Who holds the record for most teams played for in MLB with 14?",
+        "answers": "Edwin Jackson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 249,
+        "question": "What player either tied or led the National League in Homeruns in 7 consecutive seasons from 1946-1952",
+        "answers": "Ralph Kiner",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 250,
+        "question": "Who was the second player to reach 500 homeruns?",
+        "answers": "Jimmie Foxx",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 251,
+        "question": "In 2014, what player hit a walk-off in game 5 of the NLCS to send the Giants to the world series?",
+        "answers": "Travis Ishikawa",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 252,
+        "question": "In 1997, who hit a walk-off single to win the first world series in Marlins history?",
+        "answers": "Edgar Renteria",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 253,
+        "question": "In 2002 the A’s set the American League record for consecutive wins with 20, what team surpassed that in 2017?",
+        "answers": "Cleveland Indians",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 254,
+        "question": "In 1961, what team had the longest losing streak in MLB history",
+        "answers": "Philadelphia Phillies",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 255,
+        "question": "In 1968, What pitcher was the last to win 30 games in a season?",
+        "answers": "Denny McLain",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 256,
+        "question": "Who hit the most homeruns in the 1980s?",
+        "answers": "Mike Schmidt",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 257,
+        "question": "Who hit the most homeruns in the 1990s?",
+        "answers": "Mark McGwire",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 258,
+        "question": "Who hit the most homeruns in the 2000s?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 259,
+        "question": "Who hit the most homeruns in the 2010s?",
+        "answers": "Nelson Cruz",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 260,
+        "question": "Who had the most hits in the 1980s?",
+        "answers": "Robin Yount",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 261,
+        "question": "Who had the most hits in the 2000s?",
+        "answers": "Ichiro Suzuki",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 262,
+        "question": "Who had the most hits in the 2010s?",
+        "answers": "Robinson Cano",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 263,
+        "question": "Who are the only 2 pitchers since 2000 to win a Cy Young and an MVP in the same year?",
+        "answers": ["Justin Verlander and Clayton Kershaw"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 264,
+        "question": "What player holds the single season record for RBIs?",
+        "answers": "Hack Wilson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 265,
+        "question": "Who was the first player to win multiple MVPs?",
+        "answers": "Walter Johnson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 266,
+        "question": "What 3 pitchers hold the record for most strikeouts in a single game?",
+        "answers": ["Max Scherzer, Kerry Wood, and Roger Clemens"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 267,
+        "question": "Who is the most recent player to hit 4 homeruns in a game?",
+        "answers": "J.D. Martinez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 268,
+        "question": "Who holds the record for most total bases in a single game?",
+        "answers": "Shawn Green",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 269,
+        "question": "What 3 pitchers hold the record for most consecutive strikeouts in a single game?",
+        "answers": ["Tom Seaver, Corbin Burnes and Aaron Nola"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 270,
+        "question": "What 3 players were the 2002 Oakland A’s tasked with replacing?",
+        "answers": ["Jason Giambi, Johnny Damon, and Jason Isringhausen"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 271,
+        "question": "What closer had the most saves in a single-season with 62?",
+        "answers": "Francisco Rodriguez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 272,
+        "question": "Who holds the record with the most leadoff homeruns in MLB history?",
+        "answers": "Rickey Henderson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 273,
+        "question": "Who holds the record with the most leadoff homeruns in a single-season in MLB history?",
+        "answers": "Alfonso Soriano",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 274,
+        "question": "What two players have the most consecutive seasons with 30 or more Homeruns?",
+        "answers": ["Barry Bonds and Alex Rodriguez"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 275,
+        "question": "Who are the last 2 players to lead both leagues in Homeruns in their career?",
+        "answers": ["Mark McGwire and Fred McGriff"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 276,
+        "question": "Who is the only player to lead the league in homeruns for 3 different teams?",
+        "answers": "Reggie Jackson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 277,
+        "question": "Who has the most walk-off home runs in MLB history?",
+        "answers": "Jim Thome",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 278,
+        "question": "What player hit into the most double plays in MLB history?",
+        "answers": "Albert Pujols",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 279,
+        "question": "Who holds the record for most postseason games with a homerun?",
+        "answers": "Daniel Murphy",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 280,
+        "question": "Who holds the record for most games with a homerun from both sides of the plate?",
+        "answers": "Mark Teixeira",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 281,
+        "question": "What hitter holds the record for most strikeouts in a season?",
+        "answers": "Mark Reynolds",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 282,
+        "question": "What hitter holds the record for most at-bats in a single-season?",
+        "answers": "Jimmy Rollins",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 283,
+        "question": "What former MVP had this career path from 1992-2008? TOR->NYM->CLE->SFG->HOU->LAD",
+        "answers": "Jeff Kent",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 284,
+        "question": "What 3 time SB champion had this career path from 2003-2018? NYM->MIA->TOR->COL->NYM",
+        "answers": "Jose Reyes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 285,
+        "question": "What former batting champion had this career path from 1997-2011? FLA->CHC->ATL->BAL->PIT",
+        "answers": "Derrek Lee",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 286,
+        "question": "What 1x all-star had this career path from 1998-2011? STL->ATL->LAD->BOS",
+        "answers": "J.D. Drew",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 287,
+        "question": "What 8x Gold Glover had this career path from 1993-2010? ANA->STL->SDP->CHC->MIL->CIN",
+        "answers": "Jim Edmonds",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 288,
+        "question": "What 6x AS had this career path from 1999-2013? HOU->NYY->STL->TEX",
+        "answers": "Lance Berkman",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 289,
+        "question": "What 5x AS had this career path from 1990–2008? HOU->CHW->HOU->DET->ARI->LAD->FLA",
+        "answers": "Luis Gonzalez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 290,
+        "question": "What Batting Champion had this career path from 1989-2005? TOR->NYM->SEA->NYY->BOS",
+        "answers": "John Olerud",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 291,
+        "question": "What 2x HR Champ had this career path from 2004-2018? BAL->TBD->KCR->PIT->TOR->ATL->NYM->PHI",
+        "answers": "José Bautista",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 292,
+        "question": "What 2x AS had this career path from 2010-2021?  MIL->TEX->COL->OAK->LAA->CHC->BOS->WSN->ATL",
+        "answers": "Jonathan Lucroy",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 293,
+        "question": "What 2x AS had this career path from 1987-2004? BOS->CHW->COL->SFG->CLE->BOS",
+        "answers": "Ellis Burks",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 294,
+        "question": "What 2x AS had this career path from 1995-2009? CLE->PIT->SDP",
+        "answers": "Brian GIles",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 295,
+        "question": "What 6x GG winner had this career path from 1989-2004? CHW->NYM->NYY->LAD",
+        "answers": "Robin Ventura",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 296,
+        "question": "What 5x SB Champ had this career path from 1991-2007? HOU->CLE->ATL->CLE->CHW->SFG->PIT->CHC->NYY->PHI->LAD->TEX->CLE",
+        "answers": "Kenny Lofton",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 297,
+        "question": "What 3x GG had this career path from 1998-2013? STL->PHI->DET->PHI->MIA",
+        "answers": "Plácido Polanco",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 298,
+        "question": "What 2x AS had this career path from 1999-2011? NYM->BAL->COL->ARI",
+        "answers": "Melvin Mora",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 299,
+        "question": "What former MVP had this career path from 1997-2013? OAK->BAL->HOU->BAL->SDP->SFG->KCR",
+        "answers": "Miguel Tejada",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 300,
+        "question": "What 2x AS had this career path from 1995-2009? MIL->HOU->SDP->BOS->HOU->LAD",
+        "answers": "Mark Loretta",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 301,
+        "question": "What 1x AS had this career path from 2002-2017? TOR->LAD->PHI->WSN",
+        "answers": "Jayson Werth",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 302,
+        "question": "What 3x AS had this career path from 1996-2010? PIT->OAK->CHC->MIL->KCR",
+        "answers": "Jason Kendall",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 303,
+        "question": "What 5x AS had this career path from 1995-2010? KCR->OAK->SEA->PHI",
+        "answers": "Mike Sweeney",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 304,
+        "question": "What 2x AS had this career path from 1996-2014? HOU->PHI->NYY->LAA->LAD->NYM",
+        "answers": "Bobby Abreu",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 305,
+        "question": "What 4x AS had this career path from 1988-2001? CAL->MIL->COL->CIN->BOS",
+        "answers": "Dante Bichette",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 306,
+        "question": "What 2x AS had this career path from 1984-2001? CIN->LAD->DET->CIN->BAL->STL->SFG",
+        "answers": "Eric Davis",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 307,
+        "question": "What former ROY had this career path from 1991-2002? MIN->NYY->KCR",
+        "answers": "Chuck Knoblauch",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 308,
+        "question": "What 2x AS had this career path from 1997-2008? CLE->MIL->ARI->SEA->NYY",
+        "answers": "Richie Sexson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 309,
+        "question": "What player had this career path from 2007-2019? ARI->BAL->CLE->NYY->MIL->STL->COL->WSN->COL",
+        "answers": "Mark Reynolds",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 310,
+        "question": "What 4x AS had this career path from 1989-2003? MIL->SDP->CIN->TBD->COL",
+        "answers": "Greg Vaughn",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 311,
+        "question": "What former HR Champ had this career path from 1985-2004? MON->STL->COL->ATL->TEX->SFG->MON->SFG->ANA",
+        "answers": "Andrés Galarraga",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 312,
+        "question": "What former HR Champ had this career path from 2010-2017? OAK->HOU->MIL->NYY",
+        "answers": "Chris Carter",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 313,
+        "question": "What former HR Champ had this career path from 2013-2021? MIL->OAK->TEX->OAK",
+        "answers": "Khris Davis",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 314,
+        "question": "What 2x AS had this career path from 1991-2006? ATL->COL->TBD->HOU->ATL->COL->WSN->WSN->SDP->COL",
+        "answers": "Vinny Castilla",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 315,
+        "question": "What former MVP had this career path from 1984-1998? NYM->SDP->SFG->SEA->CIN->BOS->CIN->CLE->OAK",
+        "answers": "Kevin Mitchell",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 316,
+        "question": "What 2x HR Champ had this career path from 1985-1998? TOR->DET->NYY->ANA->CLE",
+        "answers": "Cecil Fielder",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 317,
+        "question": "What 5x AS had this career path from 1983-1998? CHC->CLE->SDP->TOR->BAL->SFG",
+        "answers": "Joe Carter",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 318,
+        "question": "What 3x AS had this career path from 1999-2012? CHW->MIL->TEX->HOU->MIA",
+        "answers": "Carlos Lee",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 319,
+        "question": "What 1x AS had this career path from 1996-2014? SEA->KCR->SEA->PHI->NYY->SEA->LAA->KCR",
+        "answers": "Raul Ibanez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 320,
+        "question": "What 3x AS had this career path from 1994-2010? ANA->ATL->LAD",
+        "answers": "Garret Anderson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 321,
+        "question": "What 1x AS had this career path from 1993-2006? NYM->CLE->MIL->NYM->LAD->COL->CHC->PIT",
+        "answers": "Jeromy Burnitz",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 322,
+        "question": "What player had this career path from 2006-2019? LAA->SEA->MIN->SEA->KCR->TOR->OAK->NYY",
+        "answers": "Kendrys Morales",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 323,
+        "question": "What 1x AS had this career path from 2007-2016? KCR->OAK->NYY",
+        "answers": "Billy Butler",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 324,
+        "question": "What 2x WS Champ had this career path from 2000-2011? PHI->TBR->SFG",
+        "answers": "Pat Burrell",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 325,
+        "question": "What player had this career path from 2009-2020? PIT->NYM->MIL->NYY->MIA->PHI",
+        "answers": "Neil Walker",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 326,
+        "question": "What 5x GG had this career path from 1989-2007? BAL->HOU->SDP->ARI->LAD->LAA->SFG->COL",
+        "answers": "Steve Finley",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 327,
+        "question": "What 2x AS had this career path from 2004-2015? TOR->CHW->TEX->KCR",
+        "answers": "Álex Ríos",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 328,
+        "question": "What 1x AS had this career path from 2005-2020? SEA->CLE->CIN->TEX",
+        "answers": "Shin-Soo Choo",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 329,
+        "question": "What 3x AS had this career path from 1998-2015? PIT->CHC->MIL->PIT",
+        "answers": "Aramis Ramirez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 330,
+        "question": "What 2x AS had this career path from 2004-2015? MIL->SEA->PIT",
+        "answers": "Corey Hart",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 331,
+        "question": "What 3x SB Champ had this career path from 1993-2006? PIT->ARI->COL->CHC->STL->NYY->CIN->CHC",
+        "answers": "Tony Womack",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 332,
+        "question": "What 1x AS had this career path from 2005-2019? NYY->ATL->KCR->SFG->TOR->CHW->KCR->CLE->PIT",
+        "answers": "Melky Cabrera",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 333,
+        "question": "What Red Sox’s player broke up Mike Mussina’s perfect game bid with 2 outs in the 9th in 2001?",
+        "answers": "Carl Everett",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 334,
+        "question": "What Pittsburgh Pirate infamously leaned into a pitch breaking up Max Scherzer’s perfect game bid with 2 outs in the bottom of the 9th in 2015?",
+        "answers": "Jose Tabata",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 335,
+        "question": "What Houston Astro broke up Yu Darvish’s perfect game bid with 2 outs in the 9th in 2013?",
+        "answers": "Marwin Gonzalez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 336,
+        "question": "Who had the fewest wins of any Cy Young winner in MLB history?",
+        "answers": "Éric Gagné",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 337,
+        "question": "Who had the most strikeouts by a Cy Young Award winner?",
+        "answers": "Randy Johnson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 338,
+        "question": "Who is the only pitcher in MLB history to be unanimous Cy Young 3 times?",
+        "answers": "Sandy Koufax",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 339,
+        "question": "Who was the most recent pitching triple crown winner?",
+        "answers": "Shane Bieber",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 340,
+        "question": "What player had the lowest Wins Above Replacement to win the MVP award?",
+        "answers": "Willie Stargell",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 341,
+        "question": "What year did Carl Yastrzemski win the Triple Crown?",
+        "answers": "1967",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 342,
+        "question": "What 2 players are the only players with multiple WS MVPS?",
+        "answers": ["Reggie Jackson, Bob Gibson"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 343,
+        "question": "Who holds the record for most Homeruns allowed in MLB History?",
+        "answers": "Jaime Moyer",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 344,
+        "question": "Who holds the record for most Homeruns allowed in a single-season?",
+        "answers": "Bert Blyleven",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 345,
+        "question": "What player hit into the most double plays in a single-season?",
+        "answers": "Jim Rice",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 346,
+        "question": "What player has the most strikeouts in a single postseason?",
+        "answers": "Curt Schilling",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 347,
+        "question": "Who hit the first home run in Europe in MLB history?",
+        "answers": "Aaron Hicks",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 348,
+        "question": "What pitcher is the all-time leader in Home runs hit for a pitcher? (Only from the pitcher position)",
+        "answers": "Wes Ferrell",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 349,
+        "question": "What pitcher is the all-time leader in hits by a pitcher? (Only from the pitcher position)",
+        "answers": "Cy Young",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 350,
+        "question": "What player has the lowest batting average of the 500 homerun club?",
+        "answers": "Harmon Killebrew",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 351,
+        "question": "What two players in the 500 homerun club have a career WAR below 60?",
+        "answers": ["David Ortiz, Sammy Sosa"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 352,
+        "question": "What member of the 500 Homerun club has the lowest OPS?",
+        "answers": "Ernie Banks",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 353,
+        "question": "Who are the only 3 players have more than 1400 extra-base hits?",
+        "answers": ["Hank Aaron, Barry Bonds, Albert Pujols"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 354,
+        "question": "Who holds the record for most hits by a Rookie in MLB history?",
+        "answers": "Tony Oliva",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 355,
+        "question": "What position-player has the lowest single-season WAR in an all-star season?",
+        "answers": "Reggie Jackson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 356,
+        "question": "What pitcher has the lowest single-season WAR in MLB history?",
+        "answers": "Patrick Corbin",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 357,
+        "question": "Who is the all-time leader in Balks?",
+        "answers": "Steve Carlton",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 358,
+        "question": "In the wild-card era what 3 pitchers have had 30 Quality Starts in a single season?",
+        "answers": ["Zack Greinke, Felix Hernandez, Randy Johnson"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 359,
+        "question": "In the wild-card era what pitcher has the fewest Quality Starts in a single season?",
+        "answers": "Jordan Lyles",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 360,
+        "question": "What player has the most seasons with 40+ Homeruns and 200+ hits in MLB history?",
+        "answers": "Lou Gehrig",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 361,
+        "question": "Who had the most hits in a season with over 200 strikeouts?",
+        "answers": "Giancarlo Stanton",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 362,
+        "question": "What player has the most seasons in between 40 and 50 homeruns?",
+        "answers": "Harmon Killebrew",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 363,
+        "question": "What player in the Wild Card Era has the most seasons with at least 10 triples?",
+        "answers": "Roberto Clemente",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 364,
+        "question": "In his only all-star season what player hit a walk-off homerun in the world series despite not hitting a homerun in the regular season?",
+        "answers": "Scott Podsednik",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 365,
+        "question": "Who has the most 3+ Homerun games in MLB history?",
+        "answers": "Sammy Sosa",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 366,
+        "question": "What 1x AS pitcher had this career path from 1994-2008? PIT->CHC->NYY->PHI->CHC",
+        "answers": "Jon Lieber",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 367,
+        "question": "What 1x AS pitcher had this career path from 1998-2010? SFG->ATL->ARI->BAL->SFG->HOU->LAD",
+        "answers": "Russ Ortiz",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 368,
+        "question": "What 1x AS pitcher had this career path from 1997-2012? ATL->PHI->CLE->TEX->BAL->COL->SEA",
+        "answers": "Kevin Millwood",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 369,
+        "question": "What 2x AS pitcher had this career path from 1997-2013? SEA->BOS->LAD->ATL->CLE->NYY->TEX",
+        "answers": "Derek Lowe",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 370,
+        "question": "What 2x AS pitcher had this career path from 2000-2014? FLA->LAD->BOS->SFG->STL->DET->SFG->MIA",
+        "answers": "Brad Penny",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 371,
+        "question": "What 2x AS pitcher had this career path from 2005-2021? LAA->KCR->ATL->MIN->CHW->KCR",
+        "answers": "Ervin Santana",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 372,
+        "question": "What pitcher had this career path from 2004-2017? OAK->PHI->LAD->LAA->KCR->PIT->LAD->WSN",
+        "answers": "Joe Blanton",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 373,
+        "question": "What 1x AS pitcher had this career path from 2005-2014? LAA->ARI->BAL->SEA->TEX->BAL",
+        "answers": "Joe Saunders",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 374,
+        "question": "What 2x AS pitcher had this career path from 1999-2013? MON->NYY->OAK->TOR->CHC->LAD",
+        "answers": "Ted Lilly",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 375,
+        "question": "What 2x AS pitcher had this career path from 1998-2013? FLA->CIN->CHC->TEX->BOS",
+        "answers": "Ryan Dempster",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 376,
+        "question": "What 1x AS pitcher had this career path from 2009-2021? OAK->ARI->ATL->CHC->SDP->KCR->OAK->LAA->SFG->PIT",
+        "answers": "Trevor Cahill",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 377,
+        "question": "What 1x AS pitcher had this career path from 2007-2018? NYY->MIN->SDP",
+        "answers": "Phil Hughes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 378,
+        "question": "What 1x AS pitcher had this career path from 2006-2015? LAD->PHI",
+        "answers": "Chad Billingsley",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 379,
+        "question": "What 1x AS pitcher had this career path from 1999-2010? SEA->KCR",
+        "answers": "Gil Meche",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 380,
+        "question": "What 2x AS and WS MVP pitcher had this career path from 1996-2012? FLA->SFG->MON->WSN->ARI->MIN->COL->NYM->WSN->ATL->MIL",
+        "answers": "Livan Hernandez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 381,
+        "question": "What 1x AS pitcher had this career path from 1998-2012? MON->FLA->NYY->CLE->MIN",
+        "answers": "Carl Pavano",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 382,
+        "question": "What 1x AS pitcher had this career path from 1998-2011? MON->NYY->ARI->CHW->ATL->NYY->FLA",
+        "answers": "Javier Vazquez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 383,
+        "question": "What 1x AS pitcher had this career path from 2000-2013? NYY->CLE->STL",
+        "answers": "Jake Westbrook",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 384,
+        "question": "What 2x AS pitcher had this career path from 1993-2010? SEA->HOU->NYM->COL->ATL->HOU->ARI",
+        "answers": "Mike Hampton",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 385,
+        "question": "What pitcher had this career path from 2002-2022? SDP->PIT->NYM->SEA->ARI->HOU->WSN->CLE->ARI",
+        "answers": "Oliver Perez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 386,
+        "question": "What 2x AS pitcher had this career path from 2007-2019? BOS->PHI->ARI->TOR",
+        "answers": "Clay Buchholz",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 387,
+        "question": "What 3x AS pitcher had this career path from 2004-2021? TDB->LAA->CLE->OAK->HOU->LAD->SFG",
+        "answers": "Scott Kazmir",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 388,
+        "question": "What 1x AS pitcher had this career path from 2010-2019? OAK->SDP->TEX->SDP->STL->DET",
+        "answers": "Tyson Ross",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 389,
+        "question": "What 1x AS pitcher had this career path from 2008-2020? CHC->OAK->CHW->SFG",
+        "answers": "Jeff Samardzjia",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 390,
+        "question": "What 1x AS pitcher had this career path from 2008-2019? WSN->MIL->TOR->OAK",
+        "answers": "Marco Estrada",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 391,
+        "question": "What 1x AS pitcher had this career path from 2007-2021? PHI->HOU->TOR->SEA->PIT->TOR->NYY->MIN->STL",
+        "answers": "J.A. Happ",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 392,
+        "question": "What 2x AS pitcher had this career path from 1999-2013? SEA->CHW->PHI->DET->CHW->NYY->BAL->ATL",
+        "answers": "Freddy Garcia",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 393,
+        "question": "What 1x AS pitcher had this career path from 2003-2013? NYY->CHW->COL->PHI->PIT",
+        "answers": "Jose Contreras",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 394,
+        "question": "What 2x AS pitcher had this career path from 2005-2015? TEX->LAA",
+        "answers": "C.J. Wilson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 395,
+        "question": "What 3x AS pitcher had this career path from 1987-2007? TOR->DET->CIN->BAL->NYY->TOR->CHW->NYY->SDP->BOS->SDP->LAD",
+        "answers": "David Wells",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 396,
+        "question": "What 2x AS pitcher had this career path from 1991-2004? PHI->COL->SDP->PHI->ATL->LAD->SDP",
+        "answers": "Andy Ashby",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 397,
+        "question": "What 3x AS pitcher had this career path from 1990-2003? CLE->SDP",
+        "answers": "Charles Nagy",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 398,
+        "question": "What 1x AS pitcher had this career path from 1994-2006? DET->HOU->DET->KCR->LAD->KCR->NYM",
+        "answers": "Jose Lima",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 399,
+        "question": "What 2x AS pitcher had this career path from 1993-2007? BOS->TEX->SEA->ANA->SEA->LAD->NYM",
+        "answers": "Aaron Sele",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 400,
+        "question": "What 2x AS pitcher had this career path from 1987-2005? NYY->TOR->FLA->NYM->FLA->NYY",
+        "answers": "Al Leiter",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 401,
+        "question": "What 3x AS pitcher had this career path from 1991-2002? HOU->COL->STL",
+        "answers": "Darryl Kile",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 402,
+        "question": "What 2x AS pitcher had this career path from 1988-2003? PIT->KCR->TEX->CIN->NYM->MIN",
+        "answers": "Rick Reed",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 403,
+        "question": "What 1x AS pitcher had this career path from 1994-2010? LAD->TEX->SDP->NYM->LAD->PHI->NYY->PIT",
+        "answers": "Chan Ho Park",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 404,
+        "question": "What 1x AS pitcher had this career path from 2005-2019? MIN->CHW->PIT->TOR->HOU->DET->PIT",
+        "answers": "Francisco Liriano",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 405,
+        "question": "What 1x AS pitcher had this career path from 1989-2004? KCR->OAK->NYM->ANA->KCR",
+        "answers": "Kevin Appier",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 406,
+        "question": "What 1x AS pitcher had this career path from 1995-2008? LAD->NYM->MIL->DET->BOS->LAD->TBD->KCR",
+        "answers": "Hideo Nomo",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 407,
+        "question": "What 2x AS pitcher had this career path from 1991-2003? MIN->PIT->ATL->CIN->NYY->COL",
+        "answers": "Denny Neagle",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 408,
+        "question": "In 2011, Needing a win to secure a playoff spot, what player hit a game tying homerun for the Tampa Bay Rays in the bottom of the 9th inning?",
+        "answers": "Dan Johnson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 409,
+        "question": "Who has the most Home Runs in All-Star Game history?",
+        "answers": "Stan Musial",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 410,
+        "question": "Who has the most hits in All-Star Game history?",
+        "answers": "Willie Mays",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 411,
+        "question": "What player has won the most Home Run Derbies with 3?",
+        "answers": "Ken Griffey Jr.",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 412,
+        "question": "Who won the first Home Run Derby in 1985?",
+        "answers": "Dave Parker",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 413,
+        "question": "What Cubs Pitcher gave up Mark McGwire’s record-setting 62nd Homerun?",
+        "answers": "Steve Traschel",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 414,
+        "question": "What Dodgers Pitcher gave up Barry Bonds’ record-setting 71st Homerun?",
+        "answers": "Chan Ho Park",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 415,
+        "question": "What Hall of Fame position player had the fewest home runs post-integration? (1947-present)",
+        "answers": "Ozzie Smith",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 416,
+        "question": "What Hall of Fame position player had the lowest OPS post-integration? (1947-present)",
+        "answers": "Luis Aparicio",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 417,
+        "question": "Who is the only SS to hit 50+ Homeruns in a season?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 418,
+        "question": "Who is the all-time leader in home runs by a 2nd baseman in a season?",
+        "answers": "Marcus Semien",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 419,
+        "question": "Who is the all-time leader in home runs by a Catcher in a season?",
+        "answers": "Salvador Perez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 420,
+        "question": "Who has the most Home Runs in a season by a player who didn’t lead the league?",
+        "answers": "Sammy Sosa",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 421,
+        "question": "What 2 switch-hitters have had multiple 40+ homerun seasons?",
+        "answers": ["Mickey Mantle, Lance Berkman"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 422,
+        "question": "Who holds the record for most hits in a season by a switch hitter?",
+        "answers": "Pete Rose",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 423,
+        "question": "Who has the most hits in a season by a player who didn’t lead the league?",
+        "answers": "Chuck Klein",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 424,
+        "question": "Who holds the record for most hits in the first 5 seasons?",
+        "answers": "Ichiro Suzuki",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 425,
+        "question": "Who holds the record for most home runs in the first 5 seasons?",
+        "answers": "Ralph Kiner",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 426,
+        "question": "Who holds the record for most home runs in their last 5 seasons?",
+        "answers": "Mark McGwire",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 427,
+        "question": "Who holds the record for most hits in their last 5 seasons?",
+        "answers": "Albert Belle",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 428,
+        "question": "Who robbed Barry Bonds of a Home Run in the 2002 all-star game?",
+        "answers": "Torii Hunter",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 429,
+        "question": "What Yankees hitter hit the final Home Run at the original Yankee Stadium in 2008?",
+        "answers": "Jose Molina",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 430,
+        "question": "What Yankees hitter hit the first Home Run in the new Yankee Stadium in 2009?",
+        "answers": "Jorge Posada",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 431,
+        "question": "What Padres hitter hit the first home run in the first at-bat at Citi Field in 2009?",
+        "answers": "Jody Gerut",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 432,
+        "question": "What Yankee holds the record for most home runs at home in a single-season?",
+        "answers": "Aaron Judge",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 433,
+        "question": "What is the lowest number that is not retired by the Yankees?",
+        "answers": "0",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 434,
+        "question": "Who is the all-time leader in home runs in night games?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 435,
+        "question": "Who is the all-time leader in hits in night games?",
+        "answers": "Eddie Murray",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 436,
+        "question": "What Hall of Fame hitter has the most home runs against the Yankees in history?",
+        "answers": "Jimmie Foxx",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 437,
+        "question": "What Hall of Fame hitter has the most home runs against the Red Sox in history?",
+        "answers": "Babe Ruth",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 438,
+        "question": "What Hall of Fame hitter has the most home runs against the Mets in history?",
+        "answers": "Willie Stargell",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 439,
+        "question": "What Hall of Fame hitter has the most home runs against the Cubs in history?",
+        "answers": "Willie Mays",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 440,
+        "question": "What Hall of Fame hitter has the most home runs against the Braves in history?",
+        "answers": "Willie Mays",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 441,
+        "question": "What Hall of Fame hitter has the most home runs against the Dodgers in history?",
+        "answers": "Willie Mays",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 442,
+        "question": "What hitter has the most home runs against the Astros in history?",
+        "answers": "Albert Pujols",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 443,
+        "question": "What Hall of Fame hitter has the most home runs against the Cardinals in history?",
+        "answers": "Hank Aaron",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 444,
+        "question": "What hitter has the most home runs against the Rays in history?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 445,
+        "question": "What Hall of Fame hitter has the most home runs against the Blue Jays in history?",
+        "answers": "David Ortiz",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 446,
+        "question": "What Hall of Fame hitter has the most home runs against the Rangers in history?",
+        "answers": "Reggie Jackson",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 447,
+        "question": "What former MVP has the most inter-league home runs in history?",
+        "answers": "Albert Pujols",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 448,
+        "question": "Rickey Henderson is the all-time leader in leadoff-home runs with 81, what active player is 2nd with 57?",
+        "answers": "George Springer",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 449,
+        "question": "What active player is the all-time home run leader from the 9th spot in the order?",
+        "answers": "Martin Maldonado",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 450,
+        "question": "What Hall of Fame hitter has the most home runs in a 3-0 count? (Tracking since 1988)",
+        "answers": "Jim Thome",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 451,
+        "question": "What Hall of Fame hitter has the most home runs on the first pitch of the at-bat? (Tracking since 1988)",
+        "answers": "Vladimir Guerrero",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 452,
+        "question": "What Hall of Fame hitter has the most home runs in a 3-2 count? (Tracking since 1988)",
+        "answers": "Jim Thome",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 453,
+        "question": "What Cleveland Closer led the league with 45 saves in 2007, despite having a 5.07 ERA?",
+        "answers": "Joe Borowski",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 454,
+        "question": "What pitcher has the most complete games in a single-season since 2000?",
+        "answers": "James Shields",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 455,
+        "question": "What pitcher has the most complete games since 2000?",
+        "answers": "Roy Halladay",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 456,
+        "question": "What active pitcher has hit the most batters since 2000?",
+        "answers": "Charlie Morton",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 457,
+        "question": "Since 1947, what pitcher has the highest Wins Above Replacement (WAR)?",
+        "answers": "Roger Clemens",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 458,
+        "question": "Who is the all-time leader in pickoffs?",
+        "answers": "Steve Carlton",
+        "difficulty": "Medium"
+    },
+    { 
+        "id": 459,
+        "question": "What pitcher has induced the most double plays in MLB history?",
+        "answers": "Tommy John",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 460,
+        "question": "What active pitcher has the highest strikeout percentage in MLB history (min 100 starts)?",
+        "answers": "Jacob deGrom",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 461,
+        "question": "What 2 Hall of Fame Relief Pitchers have pitched for the most MLB teams?",
+        "answers": ["Goose Gossage, Hoyt Wilhelm"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 462,
+        "question": "Who is the all-time leader in runs scored?",
+        "answers": "Rickey Henderson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 463,
+        "question": "Who is the all-time leader in triples?",
+        "answers": "Sam Crawford",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 464,
+        "question": "Who is the all-time leader in doubles?",
+        "answers": "Tris Speaker",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 465,
+        "question": "Who has the highest stolen base percentage in MLB history (min 100 SBs)",
+        "answers": "Chase Utley",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 466,
+        "question": "What player had 5 consecutive seasons of 40+ home runs from 2004-2008?",
+        "answers": "Adam Dunn",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 467,
+        "question": "What player had the lowest WAR (0.4) for a 40+ home run season?",
+        "answers": "Adam Dunn",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 468,
+        "question": "In 1982, what player had the lowest WAR for a home run leader in MLB history?",
+        "answers": "Dave Kingman",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 469,
+        "question": "Who was the first black player to win multiple MVP awards?",
+        "answers": "Roy Campanella",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 470,
+        "question": "The last time both the AL and NL MVP Hall-of-Famers was in 1999, who were they?",
+        "answers": ["Chipper Jones, Ivan Rodriguez"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 471,
+        "question": "Who was the last MVP to not lead the league in an offensive category? (WAR not included)",
+        "answers": "Andrew McCutchen",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 472,
+        "question": "What AL First Baseman had the lowest WAR of any MVP in the 2000s",
+        "answers": "Justin Morneau",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 473,
+        "question": "What Hall of Fame pitcher reached the 20 win mark for the first time in his final season in 2008?",
+        "answers": "Mike Mussina",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 474,
+        "question": "Since 2000, what 5 pitchers have won back-to-back Cy Young awards?",
+        "answers": ["Randy Johnson, Tim Lincecum, Clayton Kershaw, Max Scherzer, Jacob deGrom"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 475,
+        "question": "Who are the only 2 Hall of Fame players to win Manager of the Year?",
+        "answers": "Frank Robinson, Paul Molitor",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 476,
+        "question": "What player won the Platinum glove in 6 consecutive seasons from 2017-2022?",
+        "answers": "Nolan Arenado",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 477,
+        "question": "What all-star catcher was traded twice in his career, both times involving Cy Young winners?",
+        "answers": "Travis d’Arnaud",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 478,
+        "question": "Since 2000 what 3 players have won back-to-back MVPs?",
+        "answers": ["Barry Bonds, Albert Pujols, Miguel Cabrera"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 479,
+        "question": "What longtime Tigers second baseman collected over 75 WAR in his career from 1977-1995, despite not making it past the first year of his Hall of Fame ballot?",
+        "answers": "Lou Whitaker",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 480,
+        "question": "What hall of fame player made 12 consecutive all-star games from 1977-1988, hitting 306 home runs in that timespan?",
+        "answers": "Dave Winfield",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 481,
+        "question": "What Hall of fame player won 5 batting titles in his first 6 years, and never won an MVP despite leading in WAR 3 times?",
+        "answers": "Wade Boggs",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 482,
+        "question": "What Hall of Fame player led the AL in Homeruns 3 consecutive years in the 1990s, winning an MVP in that span?",
+        "answers": "Ken Griffey Jr.",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 483,
+        "question": "What 3 players in the 500 Home run club never led the league in Home runs?",
+        "answers": ["Frank Thomas, Rafael Palmeiro, Gary Sheffield"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 484,
+        "question": "What Hall of Fame player had 6 consecutive seasons of 70+ stolen bases for the Expos in the 1980s?",
+        "answers": "Tim Raines",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 485,
+        "question": "As of 2023 who is the only unanimous Hall of Fame inductee?",
+        "answers": "Mariano Rivera",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 486,
+        "question": "Who is the oldest player to lead the league in hits?",
+        "answers": "Paul Molitor",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 487,
+        "question": "Who is the oldest player to win the Cy Young?",
+        "answers": "Roger Clemens",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 488,
+        "question": "Who is the oldest player to throw a no-hitter?",
+        "answers": "Nolan Ryan",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 489,
+        "question": "As of 2023, who are the only 3 Left Handed pitchers to record 3000+ strikeouts?",
+        "answers": ["Randy Johnson, Steve Carlton, CC Sabathia"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 490,
+        "question": "As of 2023, who is the active leader in hits?",
+        "answers": "Joey Votto",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 491,
+        "question": "As of 2023, who is the active leader in strikeouts?",
+        "answers": "Max Scherzer",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 492,
+        "question": "What active player has the lowest walk percentage (min. 160 starts)?",
+        "answers": "Kyle Hendricks",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 493,
+        "question": "Who hit a leadoff home run in Game 7 of the 2016 world series for the Chicago Cubs?",
+        "answers": "Dexter Fowler",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 494,
+        "question": "In 2015, what pitcher led the league in strikeouts, ERA, and WAR but finished 2nd in the Cy Young voting?",
+        "answers": "Zack Greinke",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 495,
+        "question": "What fan-favorite player did the Red Sox trade during the 2004 deadline, kicking off their run to the world series?",
+        "answers": "Nomar Garciaparra",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 496,
+        "question": "Who signed the first $100 million contract in MLB history?",
+        "answers": "Kevin Brown",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 497,
+        "question": "Who signed the first $200 million contract in MLB history?",
+        "answers": "Alex Rodriguez",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 498,
+        "question": "Who signed the first $400 million contract in MLB history?",
+        "answers": "Mike Trout",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 499,
+        "question": "Who was the first player to earn $1 million in a season?",
+        "answers": "Nolan Ryan",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 500,
+        "question": "For what team did Frank Thomas hit his 500th Home run?",
+        "answers": "Toronto Blue Jays",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 501,
+        "question": "What Diamondbacks Closer blew back-to-back saves in games 4 and 5 in the 2001 World Series against the Yankees?",
+        "answers": "Byung-Hyun Kim",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 502,
+        "question": "What Dodgers reliever gave up Albert Pujols’ 700th home run?",
+        "answers": "Phil Bickford",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 503,
+        "question": "What Tigers reliever allowed a game-tying Grand Slam to David Ortiz in Game 2 of the 2013 ALCS?",
+        "answers": "Joaquin Benoit",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 504,
+        "question": "What former Cy Young winner allowed Derek Jeter’s 3000th hit?",
+        "answers": "David Price",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 505,
+        "question": "Who is the only Knuckleballer in history to collect over 3000 Strikeouts?",
+        "answers": "Phil Niekro",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 506,
+        "question": "What 3 players played in each of the 1980s, 1990s, 2000s, and 2010s?",
+        "answers": ["Ken Griffey Jr., Jamie Moyer, Omar Vizquel"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 507,
+        "question": "Who are the only Father/Son duo to play in a game together?",
+        "answers": ["Ken Griffey Jr. and Ken Griffey Sr."],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 508,
+        "question": "How many Career Homeruns did Alex Rodriguez hit?",
+        "answers": "696",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 509,
+        "question": "What Pitcher/Catcher duo has the most starts together as battery mates?",
+        "answers": ["Adam Wainwright, Yadier Molina"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 510,
+        "question": "Who is the oldest pitcher to win at least 20 games in a season?",
+        "answers": "Warren Spahn",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 511,
+        "question": "Who is the oldest pitcher to win at least 10 games in a season?",
+        "answers": "Phil Niekro",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 512,
+        "question": "What 3 pitchers in the Live-Ball-Era are the only pitchers in history to win 15+ games in a season under the age of 20? (1920-present)",
+        "answers": ["Wally Bunker, Bob Feller, Dwight Gooden"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 513,
+        "question": "In the Live-Ball-Era, what pitcher has the most wins in their 20s? (1920-present)",
+        "answers": "Robin Roberts",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 514,
+        "question": "In the Live-Ball-Era, what pitcher has the most wins in their 30s? (1920-present)",
+        "answers": "Warren Spahn",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 515,
+        "question": "In the Live-Ball-Era, what pitcher has the most wins in their 40s? (1920-present)",
+        "answers": "Phil Niekro",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 516,
+        "question": "What pitcher is best known for the surgery that repairs the UCL?",
+        "answers": "Tommy John",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 517,
+        "question": "For what team did Gary Sheffield hit his 500th Home run?",
+        "answers": "New York Mets",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 518,
+        "question": "For what team did Jim Thome hit his 500th Home run?",
+        "answers": "Chicago White Sox",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 519,
+        "question": "For what team did Jim Thome hit his 600th Home run?",
+        "answers": "Minnesota Twins",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 520,
+        "question": "What White Sox pitcher threw a perfect game in 2012, despite finishing the season with a 6.44 ERA?",
+        "answers": "Philip Humber",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 521,
+        "question": "Who are the 5 pitchers to have both a Cy Young Award and a perfect game?",
+        "answers": ["Sandy Koufax, Catfish Hunter, David Cone, Randy Johnson, Felix Hernandez"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 522,
+        "question": "What longtime player and manager is credited with inventing the high-five?",
+        "answers": "Dusty Baker",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 523,
+        "question": "What former NL MVP was suspended 2 seasons after winning the award for Performance enhancing drugs?",
+        "answers": "Ryan Braun",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 524,
+        "question": "What Reds Pitcher won the shortened 2020 Cy Young but was pushed out of the league the next year later for off-the-field issues?",
+        "answers": "Trevor Bauer",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 525,
+        "question": "Who got the last out of the 2016 world series for the Chicago Cubs, breaking their century-long curse?",
+        "answers": "Mike Montgomery",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 526,
+        "question": "What Giants pitcher won 2 Cy Youngs despite finishing with a WAR below 20?",
+        "answers": "Tim Lincecum",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 527,
+        "question": "Who is the only NL Cy Young winner from the 1990s to not make the Hall of Fame?",
+        "answers": "Doug Drabek",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 528,
+        "question": "What 2x Cy Young winner racked up just under 60 WAR, but didn’t get past the first year on the Hall of Fame Ballot?",
+        "answers": "Bret Saberhagen",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 529,
+        "question": "The 2002 Oakland A’s had both the MVP and Cy Young, who were they?",
+        "answers": ["Miguel Tejada, Barry Zito"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 530,
+        "question": "After being traded from the Indians at the 2008 deadline, what pitcher went 11-2 with 7 complete games, catapulting his new team to the playoffs by just 1 game?",
+        "answers": "CC Sabathia",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 531,
+        "question": "In the 2014 world series, what pitcher threw 21 innings in 3 games, including 5 shutout innings to close game 7?",
+        "answers": "Madison Bumgarner",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 532,
+        "question": "In game 5 of the 2015 World Series, what player had the go-ahead hit in the 12th inning, making it the only hit he recorded in the playoffs that season?",
+        "answers": "Christian Colon",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 533,
+        "question": "In 1990, What Oakland A’s pitcher was the last pitcher to win 25+ games in a single-season?",
+        "answers": "Bob Welch",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 534,
+        "question": "Who is the most recent member of the 400 Home run club?",
+        "answers": "Giancarlo Stanton",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 535,
+        "question": "What player recorded 3000+ hits, 475+ Homeruns playing from 1998-2018?",
+        "answers": "Adrian Beltre",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 536,
+        "question": "Who is the only player in MLB History with 3000+ hits and less than 50.0 WAR?",
+        "answers": "Lou Brock",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 537,
+        "question": "What active player is the only player with a WAR higher than 60, despite having fewer than 1500 hits?",
+        "answers": "Mookie Betts",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 538,
+        "question": "Who is the Texas Rangers all-time leader in Home runs?",
+        "answers": "Juan González",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 539,
+        "question": "Who is the Texas Rangers all-time leader in hits, playing his whole career in the 21st century?",
+        "answers": "Michael Young",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 540,
+        "question": "What Mets flamethrower won the 2018 Cy Young despite winning only 10 games?",
+        "answers": "Jacob deGrom",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 541,
+        "question": "In 1981, what reliever won the Cy Young, despite having the lowest strikeout total by a Cy Young champion?",
+        "answers": "Rollie Fingers",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 542,
+        "question": "In 1976, what Padres starting pitcher won the Cy Young despite striking out just 93 batters in 315 innings?",
+        "answers": "Randy Jones",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 543,
+        "question": "What 3 players hold the record for most consecutive games with a home run with 8?",
+        "answers": ["Ken Griffey Jr., Don Mattingly, Dale Long"],
+        "difficulty": "Hard"
+    },
+    {
+        "id": 544,
+        "question": "What former Mets pitcher is the youngest player to make the all-star team?",
+        "answers": "Dwight Gooden",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 545,
+        "question": "2017 was the last season that 2 players hit 50+ home runs, who were they?",
+        "answers": ["Aaron Judge, Giancarlo Stanton"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 546,
+        "question": "Who was the last hitter to lead the majors in Home runs in consecutive years?",
+        "answers": "Jose Bautista",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 547,
+        "question": "Alex Rodriguez hit 54 home runs in 2005 en route to his 2nd MVP including an April 3 Home run game against what pitcher?",
+        "answers": "Bartolo Colon",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 548,
+        "question": "Who was the last hitter to lead the majors in hits in consecutive years?",
+        "answers": "Trea Turner",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 549,
+        "question": "How many times did Derek Jeter record 200+ hits?",
+        "answers": "8",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 550,
+        "question": "What Slugger had 58 HRs and 149 RBIs in 2006 en route to an MVP?",
+        "answers": "Ryan Howard",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 551,
+        "question": "This player won the shortened 2020 AL ROY, but has only played 70 games in 3 seasons since",
+        "answers": "Kyle Lewis",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 552,
+        "question": "Who was the first rookie of the year?",
+        "answers": "Jackie Robinson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 553,
+        "question": "What Marlins player won the NL ROY in 2009 then accrued 0 WAR over his next 8 seasons?",
+        "answers": "Chris Coghlan",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 554,
+        "question": "What Rays player won the AL ROY then was traded 2 years later in a deal where the Rays received Jake Bauers and Steven Souza Jr.?",
+        "answers": "Wil Myers",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 555,
+        "question": "What A’s player won AL ROY in 1998 and was traded 3 years later in a deal that brought Johnny Damon to Oakland?",
+        "answers": "Ben Grieve",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 556,
+        "question": "What 2 A’s players were best known as the ‘Bash Brothers’?",
+        "answers": ["Mark McGwire and Jose Canseco"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 557,
+        "question": "What 2 Yankees players were best known as the ‘The M&M boys’?",
+        "answers": ["Mickey Mantle and Roger Maris"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 558,
+        "question": "What Pirates player won the 2006 batting title as well as leading the NL in doubles?",
+        "answers": "Freddy Sanchez",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 559,
+        "question": "Who are the only two players in the Live-Ball-Era to win a batting title in both the AL and NL?",
+        "answers": ["Luis Arraez, DJ LeMahieu"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 560,
+        "question": "What AL player had the lowest batting average for a batting title winner in 1968?",
+        "answers": "Carl Yastrzemski",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 561,
+        "question": "What former MVP won a batting title with the Rockies in 2014, hitting .316?",
+        "answers": "Justin Morneau",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 562,
+        "question": "How many batting titles did Rod Carew win?",
+        "answers": "7",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 563,
+        "question": "What team did Wade Boggs play his final 2 seasons with?",
+        "answers": "Tampa Bay Devil Rays",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 564,
+        "question": "What player won 3 out of 4 AL batting titles from 2006-2009?",
+        "answers": "Joe Mauer",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 565,
+        "question": "What AL West player won 3 out of 4 AL batting titles from 2014-2017?",
+        "answers": "Jose Altuve",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 566,
+        "question": "What AL Central player won 4 out of 5 AL batting titles from 2011-2015?",
+        "answers": "Miguel Cabrera",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 567,
+        "question": "In the Integration-ERA, who are the only 2 players to hit .390+ in a season? (1947-present)",
+        "answers": ["Tony Gwynn, George Brett"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 568,
+        "question": "Who are the only 2 players in MLB to win multiple Triple Crowns?",
+        "answers": ["Ted Williams and Rogers Hornsby"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 569,
+        "question": "What NL 3B has won 10 consecutive Gold Gloves from 2013-2022?",
+        "answers": "Nolan Arenado",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 570,
+        "question": "The Cubs parted ways with their top prospect Gleyber Torres in a deal for what closer who helped them win the 2016 World Series?",
+        "answers": "Aroldis Chapman",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 571,
+        "question": "What Yankees 1B hit a tie-breaking solo home run in the 7th inning game 3 of the 2017 ALDS off Andrew Miller en route to a 1-0 win and a comeback from down 0-2 in the series?",
+        "answers": "Greg Bird",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 572,
+        "question": "Who was the active leader in home runs after Barry Bonds Retired in 2007?",
+        "answers": "Ken Griffey Jr.",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 573,
+        "question": "What year did Hank Aaron pass Babe Ruth for the career record in Home runs?",
+        "answers": "1974",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 574,
+        "question": "What year did Roger Maris pass Babe Ruth for the single-season record in Home runs?",
+        "answers": "1961",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 575,
+        "question": "How many Gold Gloves did Greg Maddux win?",
+        "answers": "18",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 576,
+        "question": "In 2008, this pitcher was the last pitcher to hit a Home Run in the world series",
+        "answers": ["Joe Blanton"],
+        "difficulty": "Medium"
+    },
+    {
+        "id": 577,
+        "question": "In 2018, what pitcher took Clayton Kershaw deep in game 1 of the NLCS?",
+        "answers": "Brandon Woodruff",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 578,
+        "question": "What 3 pitchers or the only pitchers to surpass 4000 strikeouts?",
+        "answers": ["Steve Carlton, Randy Johnson, Nolan Ryan"],
+        "difficulty": "Easy"
+    },
+    {
+        "id": 579,
+        "question": "What AL team did Tom Seaver retire with?",
+        "answers": "Boston Red Sox",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 580,
+        "question": "How many times did Tom Seaver lead the league in strikeouts?",
+        "answers": "5",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 581,
+        "question": "The Pitcher of the month Award was introduced in 1975 with what Dodgers Pitcher winning it in both April and May?",
+        "answers": "Don Sutton",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 582,
+        "question": "What Indians pitcher finished in the top 3 in Cy Young voting in 4 out of 5 years, winning 2 times in the 2010s?",
+        "answers": "Corey Kluber",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 583,
+        "question": "This Angels player won the MVP in both 2021 and 2023, doing so as both a Pitcher and DH?",
+        "answers": "Shohei Ohtani",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 584,
+        "question": "Mike Trout led the AL in WAR in 2015, but finished 2nd to who?",
+        "answers": "Josh Donaldson",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 585,
+        "question": "In 2016, the Dodgers had 2 players finish in the top 3 in ROY voting, Corey Seager and what pitcher?",
+        "answers": "Kenta Maeda",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 586,
+        "question": "What Orioles reliever had a 4.1 WAR, 47 Saves and a 0.54 ERA finishing 4th in the 2016 Cy Young voting?",
+        "answers": "Zack Britton",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 587,
+        "question": "In 2018, the Yankees had 2 players finish in the top 3 in ROY voting, Gleyber Torres and who else?",
+        "answers": "Miguel Andujar",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 588,
+        "question": "Yordan Alvarez hit a walkoff home run in Game 1 of the 2022 ALDS off what former Cy Young winner?",
+        "answers": "Robbie Ray",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 589,
+        "question": "Fernando Tatis Jr. was traded as a 17 year old for what former All Star pitcher who finished his career going 16-35 with a 5.31 ERA with the White Sox?",
+        "answers": "James Shields",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 590,
+        "question": "Yordan Alvarez was traded from the Dodgers to the Astros for what relief pitcher?",
+        "answers": "Josh Fields",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 591,
+        "question": "Who is the Rockies all-time leader in hits and home runs?",
+        "answers": "Todd Helton",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 592,
+        "question": "What team did Larry Walker retire with?",
+        "answers": "St. Louis Cardinals",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 593,
+        "question": "What team did Andruw Jones retire with?",
+        "answers": "New York Yankees",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 594,
+        "question": "What team did Sammy Sosa start his career with?",
+        "answers": "Texas Rangers",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 595,
+        "question": "What team did Adrian Beltre start his career with?",
+        "answers": "Los Angeles Dodgers",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 596,
+        "question": "What team did Rickey Henderson retire with?",
+        "answers": "Los Angeles Dodgers",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 597,
+        "question": "What team did Roberto Alomar retire with?",
+        "answers": "Chicago White Sox",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 599,
+        "question": "What team did Mike Piazza retire with?",
+        "answers": "Oakland Athletics",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 600,
+        "question": "What team did Ivan Rodriguez retire with?",
+        "answers": "Washington Nationals",
+        "difficulty": "Medium"
+    }
+]
