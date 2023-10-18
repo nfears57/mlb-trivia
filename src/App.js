@@ -1,8 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import QuestionList from './QuestionList';
 import questionsData from './questions.json';
-import './App.css'
+import './App.css';
+import './AppLight.css'; // Import light mode styles
+import './AppDark.css'; // Import dark mode styles
+
 const App = () => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
   const localStorageKey = 'userAnswers';
   const [userAnswers, setUserAnswers] = useState(() => {
     // Load user answers from localStorage on component mount
@@ -25,11 +29,26 @@ const App = () => {
     }
   };
 
+  useEffect(() => {
+    // Apply the dark mode styles dynamically
+    const darkModeStylesheet = document.getElementById('dark-mode-stylesheet');
+    if (darkModeStylesheet) {
+      darkModeStylesheet.disabled = !isDarkMode;
+    }
+  }, [isDarkMode]);
+
+  const toggleDarkMode = () => {
+    setIsDarkMode((prevMode) => !prevMode);
+  };
+
   return (
-    <div>
-      <div class="title-container">
-        <div class="title">MLB Trivia</div>
-        <div class="subtitle">The Daily Trivia Game</div>
+    <div className={isDarkMode ? 'dark-mode' : 'light-mode'}>
+      <div className="title-container">
+        <div className="title">MLB Trivia</div>
+        <div className="subtitle">The Daily Trivia Game</div>
+        <button className="dark-mode-toggle" onClick={toggleDarkMode}>
+          {isDarkMode ? '🌞' : '🌜'}
+        </button>
       </div>
       <QuestionList questionsData={questionsData} onAnswer={handleAnswer} />
     </div>
