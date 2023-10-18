@@ -1,24 +1,39 @@
+// Questions.js
 import React, { useState } from 'react';
 import './Questions.css';
 
-const Question = ({ id, question, difficulty, answer, onAnswer }) => {
+const Question = ({ id, question, difficulty, answers: answers, onAnswer }) => {
   // Ensure that answer is always an array
-  const answersArray = Array.isArray(answer) ? answer : [answer];
+  const answersArray = Array.isArray(answers) ? answers : [answers];
 
   const [typedAnswers, setTypedAnswers] = useState(Array(answersArray.length).fill(''));
   const [isCorrect, setIsCorrect] = useState(Array(answersArray.length).fill(null));
   const [isSubmitted, setIsSubmitted] = useState(false);
 
   const handleAnswer = () => {
-    const areAnswersCorrect = typedAnswers.map((typedAnswer, index) =>
-      answersArray.some((correctAnswer) => typedAnswer.toLowerCase() === correctAnswer.toLowerCase())
-    );
-  
+    console.log(answers)
+    if (!answersArray || !typedAnswers) {
+      console.error('Answers or typedAnswers are undefined.');
+      return;
+    }
+
+    const areAnswersCorrect = typedAnswers.map((typedAnswer, index) => {
+      const correctAnswer = answersArray[index];
+      return (
+        correctAnswer &&
+        typedAnswer.toLowerCase() === correctAnswer.toLowerCase()
+      );
+    });
+
     setIsCorrect(areAnswersCorrect);
-    onAnswer({ question, difficulty, typedAnswers, isCorrect: areAnswersCorrect.includes(true) });
+    onAnswer({
+      question,
+      difficulty,
+      typedAnswers,
+      isCorrect: areAnswersCorrect.includes(true),
+    });
     setIsSubmitted(true);
   };
-  
 
   const handleInputChange = (index, value) => {
     setTypedAnswers((prevTypedAnswers) => {
@@ -26,13 +41,19 @@ const Question = ({ id, question, difficulty, answer, onAnswer }) => {
       newTypedAnswers[index] = value;
       return newTypedAnswers;
     });
+
+    // Reset the correctness indicator when typing
+    setIsCorrect((prevIsCorrect) => {
+      const newIsCorrect = [...prevIsCorrect];
+      newIsCorrect[index] = null;
+      return newIsCorrect;
+    });
   };
 
   return (
     <div>
       <h3>{question}</h3>
       <div>
-        {/* Render input boxes for each possible answer */}
         {answersArray.map((_, index) => (
           <div key={index}>
             <input
@@ -40,7 +61,7 @@ const Question = ({ id, question, difficulty, answer, onAnswer }) => {
               value={typedAnswers[index]}
               onChange={(e) => handleInputChange(index, e.target.value)}
               placeholder={`Type answer ${index + 1} here`}
-              disabled={isSubmitted} // Disable input after answering
+              disabled={isSubmitted}
             />
           </div>
         ))}
@@ -49,11 +70,13 @@ const Question = ({ id, question, difficulty, answer, onAnswer }) => {
         Submit Answer
       </button>
       {isSubmitted &&
-        (isCorrect.every((correct) => correct) ? (
+        isCorrect.includes(true) ? (
           <div className="correct-banner">Correct!</div>
         ) : (
-          <div className="incorrect-banner">Incorrect!</div>
-        ))}
+          isCorrect.includes(false) && (
+            <div className="incorrect-banner">Incorrect!</div>
+          )
+        )}
     </div>
   );
 };
