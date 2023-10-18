@@ -41,7 +41,7 @@ const Question = ({ id, question, difficulty, answers: answers, onAnswer }) => {
       newTypedAnswers[index] = value;
       return newTypedAnswers;
     });
-
+  
     // Reset the correctness indicator when typing
     setIsCorrect((prevIsCorrect) => {
       const newIsCorrect = [...prevIsCorrect];
@@ -51,13 +51,14 @@ const Question = ({ id, question, difficulty, answers: answers, onAnswer }) => {
   };
 
   return (
-    <div>
+    <div class="center-container">
       <h3>{question}</h3>
       <div>
         {answersArray.map((_, index) => (
           <div key={index}>
             <input
               type="text"
+              class="input-text"
               value={typedAnswers[index]}
               onChange={(e) => handleInputChange(index, e.target.value)}
               placeholder={`Type answer ${index + 1} here`}
@@ -66,7 +67,7 @@ const Question = ({ id, question, difficulty, answers: answers, onAnswer }) => {
           </div>
         ))}
       </div>
-      <button onClick={handleAnswer} disabled={isSubmitted}>
+      <button class="submit-button" onClick={handleAnswer} disabled={isSubmitted}>
         Submit Answer
       </button>
       {isSubmitted &&

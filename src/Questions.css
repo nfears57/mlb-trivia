@@ -35,11 +35,53 @@
 
   /* src/components/Questions.css */
 .correct-banner {
-    color: green;
+    color: #28a745; /* Green color for correct banner */
+    background-color: #87e99f;
     font-weight: bold;
-    margin-top: 10px;
-  }
+    padding: 10px;
+    margin-top: 15px; /* Adjusted margin for better spacing */
+    border: 1px solid #ebccd1; /* Border color for a subtle separation */
+    border-radius: 5px; /* Rounded corners for a softer look */
+    text-align: center; /* Center the text */
+}
   
-  
+.incorrect-banner {
+    color: #d9534f; /* Red color for the text */
+    background-color: #f2dede; /* Light red background color */
+    padding: 10px; /* Adjust padding as needed */
+    margin-top: 10px; /* Adjust margin as needed */
+    border: 1px solid #ebccd1; /* Border color for a subtle separation */
+    border-radius: 5px; /* Rounded corners for a softer look */
+    text-align: center; /* Center the text */
+    font-weight: bold; /* Make the text bold */
+}
+
   /* Add more styles for questions component as needed */
-  
+  .input-text {
+    width: 90%; /* Adjust the width as needed */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.submit-button {
+    background-color: #4caf50; /* Green color for the button */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+}
