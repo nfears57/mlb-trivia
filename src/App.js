@@ -4,6 +4,7 @@ import questionsData from './questions.json';
 import './App.css';
 import './AppLight.css'; // Import light mode styles
 import './AppDark.css'; // Import dark mode styles
+import logo from './download.png'
 
 const App = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -43,6 +44,7 @@ const App = () => {
 
   return (
     <div className={isDarkMode ? 'dark-mode' : 'light-mode'}>
+      <img src={logo} alt="Logo" className="logo" />
       <div className="title-container">
         <div className="title">MLB Trivia</div>
         <div className="subtitle">The Daily Trivia Game</div>

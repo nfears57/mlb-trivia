@@ -5,28 +5,28 @@ import StarsPopup from './StarsPopup';
 import questionsData from './questions.json';
 import './QuestionList.css';
 
-const getRandomQuestion = (difficulty) => {
-  const filteredQuestions = questionsData.filter((q) => q.difficulty === difficulty);
-  const randomIndex = Math.floor(Math.random() * filteredQuestions.length);
-  return filteredQuestions[randomIndex];
-};
-
-const selectQuestions = () => {
-  const selectedEasy = getRandomQuestion('Easy');
-  const selectedMedium = getRandomQuestion('Medium');
-  const selectedHard = getRandomQuestion('Hard');
-
-  return [selectedEasy, selectedMedium, selectedHard];
-};
-
 const QuestionList = ({ onAnswer }) => {
   const localStorageKey = 'selectedQuestions';
   const [selectedQuestions, setSelectedQuestions] = useState([]);
   const [correctAnswers, setCorrectAnswers] = useState(0);
-  const [questionsCompleted, setQuestionsCompleted] = useState(0);
-  const [showStarsPopup, setShowStarsPopup] = useState(false);
+  const [allQuestionsCompleted, setAllQuestionsCompleted] = useState(false);
 
   useEffect(() => {
+    const selectQuestions = () => {
+      const selectedEasy = getRandomQuestion('Easy');
+      const selectedMedium = getRandomQuestion('Medium');
+      const selectedHard = getRandomQuestion('Hard');
+
+      const newSelectedQuestions = [selectedEasy, selectedMedium, selectedHard];
+
+      // Save the selected questions to local storage
+      localStorage.setItem(localStorageKey, JSON.stringify(newSelectedQuestions));
+
+      setSelectedQuestions(newSelectedQuestions);
+      setCorrectAnswers(0);
+      setAllQuestionsCompleted(false);
+    };
+
     // Check if there are previously selected questions in local storage
     const storedQuestions = localStorage.getItem(localStorageKey);
 
@@ -34,10 +34,7 @@ const QuestionList = ({ onAnswer }) => {
       setSelectedQuestions(JSON.parse(storedQuestions));
     } else {
       // If no stored questions, select new questions
-      const newSelectedQuestions = selectQuestions();
-      // Save the selected questions to local storage
-      localStorage.setItem(localStorageKey, JSON.stringify(newSelectedQuestions));
-      setSelectedQuestions(newSelectedQuestions);
+      selectQuestions();
     }
 
     // Schedule a daily reset at 8:00 AM EST
@@ -51,13 +48,7 @@ const QuestionList = ({ onAnswer }) => {
     const timeUntilReset = nextResetTime - now;
 
     const resetQuestions = () => {
-      const newSelectedQuestions = selectQuestions();
-      // Save the selected questions to local storage
-      localStorage.setItem(localStorageKey, JSON.stringify(newSelectedQuestions));
-      setSelectedQuestions(newSelectedQuestions);
-      setCorrectAnswers(0);
-      setQuestionsCompleted(0);
-      setShowStarsPopup(false);
+      selectQuestions();
     };
 
     // Set timeout for the next daily reset
@@ -66,6 +57,12 @@ const QuestionList = ({ onAnswer }) => {
     // Clean up the timeout when the component unmounts
     return () => clearTimeout(resetTimeout);
   }, []); // Empty dependency array ensures this effect runs once on mount
+
+  const getRandomQuestion = (difficulty) => {
+    const filteredQuestions = questionsData.filter((q) => q.difficulty === difficulty);
+    const randomIndex = Math.floor(Math.random() * filteredQuestions.length);
+    return filteredQuestions[randomIndex];
+  };
 
   const handleAnswer = (answer) => {
     onAnswer(answer);
@@ -78,24 +75,10 @@ const QuestionList = ({ onAnswer }) => {
       setCorrectAnswers((prevCorrectAnswers) => prevCorrectAnswers + 1);
     }
 
-    // Increment the questions completed count
-    setQuestionsCompleted((prevQuestionsCompleted) => prevQuestionsCompleted + 1);
-
-    // If all questions are completed, show the StarsPopup
-    if (questionsCompleted === selectedQuestions.length) {
-      setShowStarsPopup(true);
+    // Check if all questions are completed
+    if (correctAnswers + 1 === selectedQuestions.length) {
+      setAllQuestionsCompleted(true);
     }
-  };
-
-  const handleStarsPopupClose = () => {
-    // Reset states and select new questions
-    setShowStarsPopup(false);
-    const newSelectedQuestions = selectQuestions();
-    // Save the selected questions to local storage
-    localStorage.setItem(localStorageKey, JSON.stringify(newSelectedQuestions));
-    setSelectedQuestions(newSelectedQuestions);
-    setCorrectAnswers(0);
-    setQuestionsCompleted(0);
   };
 
   return (
@@ -109,11 +92,10 @@ const QuestionList = ({ onAnswer }) => {
           }}
         />
       ))}
-      {showStarsPopup && (
+      {allQuestionsCompleted && (
         <StarsPopup
           totalQuestions={selectedQuestions.length}
           correctAnswers={correctAnswers}
-          onClose={handleStarsPopupClose}
         />
       )}
     </div>
@@ -121,6 +103,4 @@ const QuestionList = ({ onAnswer }) => {
 };
 
 export default QuestionList;
-
-
 

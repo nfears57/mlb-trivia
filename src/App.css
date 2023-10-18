@@ -39,7 +39,8 @@ body {
 /* Additional Styles for Title */
 .title-container {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  margin-top: -50px;
 }
 
 .title {
@@ -49,7 +50,7 @@ body {
 
 .subtitle {
   font-size: 18px;
-  color: #555;
+  font-weight: bold;
 }
 
 /* App.css */
@@ -65,4 +66,9 @@ body {
   color: #fff; /* Adjust color as needed */
 }
 
+.logo {
+  width: 100px; /* Adjust the width as needed */
+  height: 75px; /* Adjust the height as needed */
+  margin-right: 10px; /* Add margin to separate the logo from other content */
+}
 /* Add more styles if needed */

@@ -193,7 +193,7 @@
     },
     {
         "id": 33,
-        "question": "What pitchers hold the record for most consecutive strikeouts without a walk?",
+        "question": "What pitcher holds the record for most consecutive strikeouts without a walk?",
         "answers": "Gerrit Cole",
         "difficulty": "Easy"
     },
@@ -212,7 +212,7 @@
     {
         "id": 36,
         "question": "What two players have the most consecutive seasons with 50 or more home runs?",
-        "answers": ["Mark McGwire and Sammy Sosa"],
+        "answers": ["Mark McGwire", "Sammy Sosa"],
         "difficulty": "Easy"
     },
     {
@@ -224,7 +224,7 @@
     {
         "id": 38,
         "question": "What two players have the most seasons with 30 or more home runs?",
-        "answers": ["Hank Aaron and Alex Rodriguez"],
+        "answers": ["Hank Aaron", "Alex Rodriguez"],
         "difficulty": "Easy"
     },
     {
@@ -758,7 +758,7 @@
     {
         "id": 127,
         "question": "Who are the 7 Yankees who have hit 45+ Home runs in a season?",
-        "answers": ["Aaron Judge, Alex Rodriguez, Roger Maris, Mickey Mantle, Joe DImaggio, Lou Gehrig, Babe Ruth"],
+        "answers": ["Aaron Judge", "Alex Rodriguez", "Roger Maris", "Mickey Mantle", "Joe DiMaggio", "Lou Gehrig", "Babe Ruth"],
         "difficulty": "Easy"
     },
     {
@@ -776,7 +776,7 @@
     {
         "id": 130,
         "question": "Who was the first World Series MVP and for what team?",
-        "answers": ["Johnny Podres, Brooklyn Dodgers"],
+        "answers": ["Johnny Podres", "Brooklyn Dodgers"],
         "difficulty": "Hard"
     },
     {
@@ -788,7 +788,7 @@
     {
         "id": 132,
         "question": "Who are the only 2 Hall of Fame Pitchers to give up either a 500th, 600th, or 700th home run?",
-        "answers": ["Juan Marichal, Gaylord Perry"],
+        "answers": ["Juan Marichal", "Gaylord Perry"],
         "difficulty": "Hard"
     },
     {
@@ -812,7 +812,7 @@
     {
         "id": 136,
         "question": "What 5 players won both MVP and World Series MVP in the same season?",
-        "answers": ["Mike Schmidt, Willie Stargell, Reggie Jackson, Frank Robinson, and Sandy Koufax"],
+        "answers": ["Mike Schmidt", "Willie Stargell", "Reggie Jackson", "Frank Robinson", "Sandy Koufax"],
         "difficulty": "Hard"
     },
     {
@@ -824,13 +824,13 @@
     {
         "id": 138,
         "question": "What 2 players hold the record for most Grand Slams in a single season?",
-        "answers": ["Don Mattingly and Travis Hafner"],
+        "answers": ["Don Mattingly", "Travis Hafner"],
         "difficulty": "Hard"
     },
     {
         "id": 139,
         "question": "In 2011, the New York Yankees became the first team in MLB history to hit 3 grand slams in a game, what 3 players hit a grand slam in that game?",
-        "answers": ["Robinson Cano, Russell Martin, Curtis Granderson"],
+        "answers": ["Robinson Cano", "Russell Martin", "Curtis Granderson"],
         "difficulty": "Hard"
     },
     {
@@ -1016,7 +1016,7 @@
     {
         "id": 170,
         "question": "What 11 players collected 3000 or more hits from 1980-2023?",
-        "answers": ["Derek Jeter, Albert Pujols, Cal Ripken Jr., Miguel Cabrera, Adrian Beltre, Tony Gwynn, Alex Rodriguez, Ichiro Suzuki, Craig Biggio, Rafael Palmeiro, Wade Boggs"],
+        "answers": ["Derek Jeter", "Albert Pujols", "Cal Ripken Jr", "Miguel Cabrera", "Adrian Beltre", "Tony Gwynn", "Alex Rodriguez", "Ichiro Suzuki", "Craig Biggio", "Rafael Palmeiro", "Wade Boggs"],
         "difficulty": "Hard"
     },
     {
@@ -1052,7 +1052,7 @@
     {
         "id": 176,
         "question": "Who are the only 3 rookies in MLB history to have at least 8.0 WAR?",
-        "answers": ["Mike Trout, Aaron Judge, Dick Allen"],
+        "answers": ["Mike Trout", "Aaron Judge", "Dick Allen"],
         "difficulty": "Hard"
     },
     {
@@ -1124,7 +1124,7 @@
     {
         "id": 188,
         "question": "What 2 players have the most 30/30 seasons in MLB history?",
-        "answers": ["Barry Bonds and Bobby Bonds"],
+        "answers": ["Barry Bonds", "Bobby Bonds"],
         "difficulty": "Hard"
     },
     {
@@ -1142,7 +1142,7 @@
     {
         "id": 601,
         "question": "Who are the only 2 players to hit 30+ home runs with an OPS under .700 in MLB history?",
-        "answers": ["Dave Kingman, Rougned Odor"],
+        "answers": ["Dave Kingman", "Rougned Odor"],
         "difficulty": "Hard"
     },
     {
@@ -1154,25 +1154,25 @@
     {
         "id": 192,
         "question": "What 3 players have the most seasons in between 20 and 30 home runs?",
-        "answers": ["Chili Davis, Cal Ripken Jr., and Ron Cey"],
+        "answers": ["Chili Davis", "Cal Ripken Jr", "Ron Cey"],
         "difficulty": "Hard"
     },
     {
         "id": 193,
         "question": "What 2 players have the most seasons in between 30 and 40 home runs?",
-        "answers": ["Mike Piazza and Mike Schmidt"],
+        "answers": ["Mike Piazza", "Mike Schmidt"],
         "difficulty": "Hard"
     },
     {
         "id": 194,
         "question": "Who are the only two players in MLB history with 50+ doubles in 3 different seasons?",
-        "answers": ["Brian Roberts, Albert Pujols"],
+        "answers": ["Brian Roberts", "Albert Pujols"],
         "difficulty": "Hard"
     },
     {
         "id": 195,
         "question": "Who are the only 2 players to lead the league in singles, doubles, and triples in the same season?",
-        "answers": ["Ty Cobb, Stan Musial"],
+        "answers": ["Ty Cobb", "Stan Musial"],
         "difficulty": "Hard"
     },
     {
@@ -1406,7 +1406,7 @@
     {
         "id": 234,
         "question": "Since 2000, what 6 players hit 0 Home runs in the first round of the Home Run Derby?",
-        "answers": ["Troy Glass, Bret Boone, Jason Bay, Brandon Inge, Robinson Cano, Yasiel Puig"],
+        "answers": ["Troy Glaus", "Bret Boone", "Jason Bay", "Brandon Inge", "Robinson Cano", "Yasiel Puig"],
         "difficulty": "Hard"
     },
     {
@@ -1418,7 +1418,7 @@
     {
         "id": 236,
         "question": "In Derek Jeter’s final home game, what 2 Orioles hitters hit home runs in the top of the 9th to tie the game, setting up the walk-off?",
-        "answers": ["Adam Jones, Steve Pearce"],
+        "answers": ["Adam Jones", "Steve Pearce"],
         "difficulty": "Hard"
     },
     {
@@ -1429,14 +1429,14 @@
     },
     {
         "id": 238,
-        "question": "What 3 players hit a home run for their 3000th hit? Derek Jeter, Alex Rodriguez, Wade Boggs",
-        "answers": "",
+        "question": "What 3 players hit a home run for their 3000th hit?",
+        "answers": ["Derek Jeter", "Alex Rodriguez", "Wade Boggs"],
         "difficulty": "Medium"
     },
     {
         "id": 239,
         "question": "What 2 players have hit walk-off home runs to win the world series?",
-        "answers": ["Joe Carter, Bill Mazeroski"],
+        "answers": ["Joe Carter", "Bill Mazeroski"],
         "difficulty": "Medium"
     },
     {
@@ -1580,7 +1580,7 @@
     {
         "id": 263,
         "question": "Who are the only 2 pitchers since 2000 to win a Cy Young and an MVP in the same year?",
-        "answers": ["Justin Verlander and Clayton Kershaw"],
+        "answers": ["Justin Verlander", "Clayton Kershaw"],
         "difficulty": "Medium"
     },
     {
@@ -1598,7 +1598,7 @@
     {
         "id": 266,
         "question": "What 3 pitchers hold the record for most strikeouts in a single game?",
-        "answers": ["Max Scherzer, Kerry Wood, and Roger Clemens"],
+        "answers": ["Max Scherzer", "Kerry Wood", "Roger Clemens"],
         "difficulty": "Medium"
     },
     {
@@ -1616,13 +1616,13 @@
     {
         "id": 269,
         "question": "What 3 pitchers hold the record for most consecutive strikeouts in a single game?",
-        "answers": ["Tom Seaver, Corbin Burnes and Aaron Nola"],
+        "answers": ["Tom Seaver", "Corbin Burnes", "Aaron Nola"],
         "difficulty": "Medium"
     },
     {
         "id": 270,
         "question": "What 3 players were the 2002 Oakland A’s tasked with replacing?",
-        "answers": ["Jason Giambi, Johnny Damon, and Jason Isringhausen"],
+        "answers": ["Jason Giambi", "Johnny Damon", "Jason Isringhausen"],
         "difficulty": "Medium"
     },
     {
@@ -1646,13 +1646,13 @@
     {
         "id": 274,
         "question": "What two players have the most consecutive seasons with 30 or more Homeruns?",
-        "answers": ["Barry Bonds and Alex Rodriguez"],
+        "answers": ["Barry Bonds", "Alex Rodriguez"],
         "difficulty": "Medium"
     },
     {
         "id": 275,
         "question": "Who are the last 2 players to lead both leagues in Homeruns in their career?",
-        "answers": ["Mark McGwire and Fred McGriff"],
+        "answers": ["Mark McGwire", "Fred McGriff"],
         "difficulty": "Medium"
     },
     {
@@ -2054,7 +2054,7 @@
     {
         "id": 342,
         "question": "What 2 players are the only players with multiple WS MVPS?",
-        "answers": ["Reggie Jackson, Bob Gibson"],
+        "answers": ["Reggie Jackson", "Bob Gibson"],
         "difficulty": "Medium"
     },
     {
@@ -2108,7 +2108,7 @@
     {
         "id": 351,
         "question": "What two players in the 500 homerun club have a career WAR below 60?",
-        "answers": ["David Ortiz, Sammy Sosa"],
+        "answers": ["David Ortiz", "Sammy Sosa"],
         "difficulty": "Medium"
     },
     {
@@ -2120,7 +2120,7 @@
     {
         "id": 353,
         "question": "Who are the only 3 players have more than 1400 extra-base hits?",
-        "answers": ["Hank Aaron, Barry Bonds, Albert Pujols"],
+        "answers": ["Hank Aaron", "Barry Bonds", "Albert Pujols"],
         "difficulty": "Medium"
     },
     {
@@ -2150,7 +2150,7 @@
     {
         "id": 358,
         "question": "In the wild-card era what 3 pitchers have had 30 Quality Starts in a single season?",
-        "answers": ["Zack Greinke, Felix Hernandez, Randy Johnson"],
+        "answers": ["Zack Greinke", "Felix Hernandez", "Randy Johnson"],
         "difficulty": "Medium"
     },
     {
@@ -2468,7 +2468,7 @@
     {
         "id": 411,
         "question": "What player has won the most Home Run Derbies with 3?",
-        "answers": "Ken Griffey Jr.",
+        "answers": "Ken Griffey Jr",
         "difficulty": "Medium"
     },
     {
@@ -2528,7 +2528,7 @@
     {
         "id": 421,
         "question": "What 2 switch-hitters have had multiple 40+ homerun seasons?",
-        "answers": ["Mickey Mantle, Lance Berkman"],
+        "answers": ["Mickey Mantle", "Lance Berkman"],
         "difficulty": "Medium"
     },
     {
@@ -2768,7 +2768,7 @@
     {
         "id": 461,
         "question": "What 2 Hall of Fame Relief Pitchers have pitched for the most MLB teams?",
-        "answers": ["Goose Gossage, Hoyt Wilhelm"],
+        "answers": ["Goose Gossage", "Hoyt Wilhelm"],
         "difficulty": "Hard"
     },
     {
@@ -2822,7 +2822,7 @@
     {
         "id": 470,
         "question": "The last time both the AL and NL MVP Hall-of-Famers was in 1999, who were they?",
-        "answers": ["Chipper Jones, Ivan Rodriguez"],
+        "answers": ["Chipper Jones", "Ivan Rodriguez"],
         "difficulty": "Easy"
     },
     {
@@ -2846,13 +2846,13 @@
     {
         "id": 474,
         "question": "Since 2000, what 5 pitchers have won back-to-back Cy Young awards?",
-        "answers": ["Randy Johnson, Tim Lincecum, Clayton Kershaw, Max Scherzer, Jacob deGrom"],
+        "answers": ["Randy Johnson", "Tim Lincecum", "Clayton Kershaw", "Max Scherzer", "Jacob deGrom"],
         "difficulty": "Easy"
     },
     {
         "id": 475,
         "question": "Who are the only 2 Hall of Fame players to win Manager of the Year?",
-        "answers": "Frank Robinson, Paul Molitor",
+        "answers": ["Frank Robinson", "Paul Molitor"],
         "difficulty": "Medium"
     },
     {
@@ -2870,7 +2870,7 @@
     {
         "id": 478,
         "question": "Since 2000 what 3 players have won back-to-back MVPs?",
-        "answers": ["Barry Bonds, Albert Pujols, Miguel Cabrera"],
+        "answers": ["Barry Bonds", "Albert Pujols", "Miguel Cabrera"],
         "difficulty": "Easy"
     },
     {
@@ -2894,13 +2894,13 @@
     {
         "id": 482,
         "question": "What Hall of Fame player led the AL in Homeruns 3 consecutive years in the 1990s, winning an MVP in that span?",
-        "answers": "Ken Griffey Jr.",
+        "answers": "Ken Griffey Jr",
         "difficulty": "Easy"
     },
     {
         "id": 483,
         "question": "What 3 players in the 500 Home run club never led the league in Home runs?",
-        "answers": ["Frank Thomas, Rafael Palmeiro, Gary Sheffield"],
+        "answers": ["Frank Thomas", "Rafael Palmeiro", "Gary Sheffield"],
         "difficulty": "Medium"
     },
     {
@@ -2936,7 +2936,7 @@
     {
         "id": 489,
         "question": "As of 2023, who are the only 3 Left Handed pitchers to record 3000+ strikeouts?",
-        "answers": ["Randy Johnson, Steve Carlton, CC Sabathia"],
+        "answers": ["Randy Johnson", "Steve Carlton", "CC Sabathia"],
         "difficulty": "Easy"
     },
     {
@@ -3038,13 +3038,13 @@
     {
         "id": 506,
         "question": "What 3 players played in each of the 1980s, 1990s, 2000s, and 2010s?",
-        "answers": ["Ken Griffey Jr., Jamie Moyer, Omar Vizquel"],
+        "answers": ["Ken Griffey Jr", "Jamie Moyer", "Omar Vizquel"],
         "difficulty": "Hard"
     },
     {
         "id": 507,
         "question": "Who are the only Father/Son duo to play in a game together?",
-        "answers": ["Ken Griffey Jr. and Ken Griffey Sr."],
+        "answers": ["Ken Griffey Jr", "Ken Griffey Sr"],
         "difficulty": "Easy"
     },
     {
@@ -3056,7 +3056,7 @@
     {
         "id": 509,
         "question": "What Pitcher/Catcher duo has the most starts together as battery mates?",
-        "answers": ["Adam Wainwright, Yadier Molina"],
+        "answers": ["Adam Wainwright", "Yadier Molina"],
         "difficulty": "Easy"
     },
     {
@@ -3074,7 +3074,7 @@
     {
         "id": 512,
         "question": "What 3 pitchers in the Live-Ball-Era are the only pitchers in history to win 15+ games in a season under the age of 20? (1920-present)",
-        "answers": ["Wally Bunker, Bob Feller, Dwight Gooden"],
+        "answers": ["Wally Bunker", "Bob Feller", "Dwight Gooden"],
         "difficulty": "Hard"
     },
     {
@@ -3128,7 +3128,7 @@
     {
         "id": 521,
         "question": "Who are the 5 pitchers to have both a Cy Young Award and a perfect game?",
-        "answers": ["Sandy Koufax, Catfish Hunter, David Cone, Randy Johnson, Felix Hernandez"],
+        "answers": ["Sandy Koufax", "Catfish Hunter", "David Cone", "Randy Johnson", "Felix Hernandez"],
         "difficulty": "Hard"
     },
     {
@@ -3176,7 +3176,7 @@
     {
         "id": 529,
         "question": "The 2002 Oakland A’s had both the MVP and Cy Young, who were they?",
-        "answers": ["Miguel Tejada, Barry Zito"],
+        "answers": ["Miguel Tejada", "Barry Zito"],
         "difficulty": "Easy"
     },
     {
@@ -3260,7 +3260,7 @@
     {
         "id": 543,
         "question": "What 3 players hold the record for most consecutive games with a home run with 8?",
-        "answers": ["Ken Griffey Jr., Don Mattingly, Dale Long"],
+        "answers": ["Ken Griffey Jr", "Don Mattingly", "Dale Long"],
         "difficulty": "Hard"
     },
     {
@@ -3272,7 +3272,7 @@
     {
         "id": 545,
         "question": "2017 was the last season that 2 players hit 50+ home runs, who were they?",
-        "answers": ["Aaron Judge, Giancarlo Stanton"],
+        "answers": ["Aaron Judge", "Giancarlo Stanton"],
         "difficulty": "Easy"
     },
     {
@@ -3338,13 +3338,13 @@
     {
         "id": 556,
         "question": "What 2 A’s players were best known as the ‘Bash Brothers’?",
-        "answers": ["Mark McGwire and Jose Canseco"],
+        "answers": ["Mark McGwire", "Jose Canseco"],
         "difficulty": "Easy"
     },
     {
         "id": 557,
         "question": "What 2 Yankees players were best known as the ‘The M&M boys’?",
-        "answers": ["Mickey Mantle and Roger Maris"],
+        "answers": ["Mickey Mantle", "Roger Maris"],
         "difficulty": "Easy"
     },
     {
@@ -3356,7 +3356,7 @@
     {
         "id": 559,
         "question": "Who are the only two players in the Live-Ball-Era to win a batting title in both the AL and NL?",
-        "answers": ["Luis Arraez, DJ LeMahieu"],
+        "answers": ["Luis Arraez", "DJ LeMahieu"],
         "difficulty": "Medium"
     },
     {
@@ -3434,7 +3434,7 @@
     {
         "id": 572,
         "question": "Who was the active leader in home runs after Barry Bonds Retired in 2007?",
-        "answers": "Ken Griffey Jr.",
+        "answers": "Ken Griffey Jr",
         "difficulty": "Easy"
     },
     {
@@ -3470,7 +3470,7 @@
     {
         "id": 578,
         "question": "What 3 pitchers or the only pitchers to surpass 4000 strikeouts?",
-        "answers": ["Steve Carlton, Randy Johnson, Nolan Ryan"],
+        "answers": ["Steve Carlton", "Randy Johnson", "Nolan Ryan"],
         "difficulty": "Easy"
     },
     {
