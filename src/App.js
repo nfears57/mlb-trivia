@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import QuestionList from './QuestionList';
 import questionsData from './questions.json';
-
+import './App.css'
 const App = () => {
   const localStorageKey = 'userAnswers';
   const [userAnswers, setUserAnswers] = useState(() => {
@@ -27,6 +27,10 @@ const App = () => {
 
   return (
     <div>
+      <div class="title-container">
+        <div class="title">MLB Trivia</div>
+        <div class="subtitle">The Daily Trivia Game</div>
+      </div>
       <QuestionList questionsData={questionsData} onAnswer={handleAnswer} />
     </div>
   );

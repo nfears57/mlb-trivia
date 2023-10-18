@@ -3458,7 +3458,7 @@
     {
         "id": 576,
         "question": "In 2008, this pitcher was the last pitcher to hit a Home Run in the world series",
-        "answers": ["Joe Blanton"],
+        "answers": "Joe Blanton",
         "difficulty": "Medium"
     },
     {

@@ -11,13 +11,14 @@ const Question = ({ id, question, difficulty, answer, onAnswer }) => {
 
   const handleAnswer = () => {
     const areAnswersCorrect = typedAnswers.map((typedAnswer, index) =>
-      typedAnswer.toLowerCase() === answersArray[index].toLowerCase()
+      answersArray.some((correctAnswer) => typedAnswer.toLowerCase() === correctAnswer.toLowerCase())
     );
-
+  
     setIsCorrect(areAnswersCorrect);
-    onAnswer({ question, difficulty, typedAnswers, isCorrect: areAnswersCorrect });
+    onAnswer({ question, difficulty, typedAnswers, isCorrect: areAnswersCorrect.includes(true) });
     setIsSubmitted(true);
   };
+  
 
   const handleInputChange = (index, value) => {
     setTypedAnswers((prevTypedAnswers) => {

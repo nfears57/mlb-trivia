@@ -10,7 +10,6 @@ const QuestionList = ({ onAnswer }) => {
 
   useEffect(() => {
     const selectQuestions = () => {
-      console.log('Imported Questions Data:', questionsData);
       const selectedEasy = getRandomQuestion('Easy');
       const selectedMedium = getRandomQuestion('Medium');
       const selectedHard = getRandomQuestion('Hard');
@@ -79,9 +78,9 @@ const QuestionList = ({ onAnswer }) => {
           }}
         />
       ))}
-      {/* {correctAnswers === selectedQuestions.length && (
+      {correctAnswers === selectedQuestions.length && (
         <div className="score-banner">{`You got ${correctAnswers}/${selectedQuestions.length} correct!`}</div>
-      )} */}
+      )}
     </div>
   );
 };
